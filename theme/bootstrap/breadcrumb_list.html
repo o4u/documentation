@@ -1,0 +1,10 @@
+{# warning: if doc structure change, these rules may have to change as well #}
+
+{# =====  VARIABLES  ====== #}
+{% set master_doc_short_name = 'Documentazione' %}
+
+    <li><a href="{{ pathto(master_doc) }}" class="active">{{ master_doc_short_name }}</a></li>
+    {% for parent in parents %}
+        <li><a href="{{ parent.link|e }}">{{parent.title}}</a></li>
+    {% endfor %}
+    <li class="active"><a href="#">{{ title }}</a></li>
