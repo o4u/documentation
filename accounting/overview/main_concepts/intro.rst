@@ -10,7 +10,7 @@ Introduction to Odoo Accounting
 Transcript
 ==========
 
-Odoo is beautiful accounting software designed for the needs of the 21st century. 
+Odoo is accounting software designed for the needs of the 21st century.
 
 Odoo connects directly to your bank or paypal account. Transactions are synchronized
 every hour and reconciliation is blazing fast. It's like magic.
