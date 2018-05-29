@@ -45,7 +45,7 @@ msgstr "Con Odoo, puoi scaricare un file CODA dalla tua banca o dal software di 
 
 #: ../../accounting/bank/feeds/coda.rst:14
 msgid "Test now the feature `with this sample CODA file <https://drive.google.com/file/d/0B5BDHVRYo-q5UVVMbGRxUmtpVDg/view?usp=sharing>`__"
-msgstr "Prova ora la funzione `con questo file CODA di esempio <https://drive.google.com/file/d/0B5BDHVRYo-q5UVVMbGRxUmtpVDg/view?usp=sharing>` __"
+msgstr "Prova ora la funzione `con questo file CODA di esempio <https://drive.google.com/file/d/0B5BDHVRYo-q5UVVMbGRxUmtpVDg/view?usp=sharing>`__"
 
 #: ../../accounting/bank/feeds/coda.rst:17
 #: ../../accounting/bank/feeds/manual.rst:12
@@ -268,7 +268,7 @@ msgstr "Con Odoo, puoi scaricare un file OFX dalla tua banca o dal software di c
 
 #: ../../accounting/bank/feeds/ofx.rst:15
 msgid "Test now the feature `with this sample OFX file <https://drive.google.com/file/d/0B5BDHVRYo-q5Mmg4T3oxTWszeEk/view>`__"
-msgstr "Prova ora la funzione `con questo file OFX di esempio <https://drive.google.com/file/d/0B5BDHVRYo-q5Mmg4T3oxTWszeEk/view>` __"
+msgstr "Prova ora la funzione `con questo file OFX di esempio <https://drive.google.com/file/d/0B5BDHVRYo-q5Mmg4T3oxTWszeEk/view>`__"
 
 #: ../../accounting/bank/feeds/ofx.rst:20
 msgid "In order to import OFX statements, you need to activate the feature in Odoo. In the Accounting application, go to the menu :menuselection:`Configuration --> Settings`. From the accounting settings, check the bank statements option **Import in .OFX Format** and apply."
@@ -375,7 +375,7 @@ msgstr "Con Odoo, puoi scaricare un file QIF dalla tua banca o dal software di c
 
 #: ../../accounting/bank/feeds/qif.rst:16
 msgid "Test now the feature `with this sample QIF file <https://drive.google.com/file/d/0B5BDHVRYo-q5X1ZkUWYzWmtCX0E/view>`__"
-msgstr "Prova ora la funzione `con questo file QIF di esempio <https://drive.google.com/file/d/0B5BDHVRYo-q5X1ZkUWYzWmtCX0E/view>` __"
+msgstr "Prova ora la funzione `con questo file QIF di esempio <https://drive.google.com/file/d/0B5BDHVRYo-q5X1ZkUWYzWmtCX0E/view>`__"
 
 #: ../../accounting/bank/feeds/qif.rst:21
 msgid "In order to import QIF statements, you need to activate the feature in Odoo. In the Accounting application, go to the menu :menuselection:`Configuration --> Settings`. From the accounting settings, check the bank statements option **Import in .QIF Format** and apply."
@@ -399,7 +399,7 @@ msgstr "Come sincronizzare Odoo con la tua banca?"
 
 #: ../../accounting/bank/feeds/synchronize.rst:5
 msgid "Odoo is able to synchronize directly with your bank in order to get all bank statements imported automatically in Odoo every 4 hours. Before moving forward in this tutorial, you should check if your bank is supported. You can find it out from the `Odoo Accounting Features <https://www.odoo.com/page/accounting-features>`__"
-msgstr "Odoo è in grado di sincronizzarsi direttamente con la tua banca per ottenere automaticamente tutti gli estratti conto in Odoo ogni 4 ore. Prima di andare avanti in questo tutorial, dovresti controllare se la tua banca è supportata. Puoi trovarlo dalle funzioni di contabilità di Odoo <https://www.odoo.com/page/accounting-features> `__"
+msgstr "Odoo è in grado di sincronizzarsi direttamente con la tua banca per ottenere automaticamente tutti gli estratti conto in Odoo ogni 4 ore. Prima di andare avanti in questo tutorial, dovresti controllare se la tua banca è supportata. Puoi trovarlo dalle funzioni di contabilità di Odoo <https://www.odoo.com/page/accounting-features>`__"
 
 #: ../../accounting/bank/feeds/synchronize.rst:13
 #, python-format
@@ -501,7 +501,7 @@ msgstr "Per utilizzare la funzione di deposito in batch, è necessario installar
 
 #: ../../accounting/bank/misc/batch.rst:31
 msgid "Usually, this module is automatically installed if checks are widely used in your country."
-msgstr "Di solito, questo modulo viene installato automaticamente se i controlli sono ampiamente utilizzati nel tuo paese."
+msgstr "Di solito, questo modulo viene installato automaticamente se gli assegni sono ampiamente utilizzati nel tuo paese."
 
 #: ../../accounting/bank/misc/batch.rst:34
 msgid "To verify that the **Batch Deposit** feature is installed, go to the :menuselection:`Configuration --> Settings` menu of the accounting application. Check the feature: **Allow batch deposit**."
@@ -525,7 +525,7 @@ msgstr "Nella scheda **Impostazioni avanzate**, nella sezione **Varie**, imposta
 
 #: ../../accounting/bank/misc/batch.rst:58
 msgid "If you check **Batch Deposit** in your debit method field, it means that payments created using this Journal (called Payment method when you want to make or receive a payment) will be applicable for the creation of Batch Deposits afterwards."
-msgstr "Se si seleziona **Deposito a lotti** nel campo del metodo di addebito, significa che i pagamenti creati utilizzando questo Diario (chiamato metodo di pagamento quando si desidera effettuare o ricevere un pagamento) saranno applicabili successivamente alla creazione dei depositi in lotti."
+msgstr "Se si seleziona **Deposito a lotti** nel campo del metodo di addebito, significa che i pagamenti creati utilizzando questo Sezionale (chiamato metodo di pagamento quando si desidera effettuare o ricevere un pagamento) saranno applicabili successivamente alla creazione dei depositi in lotti."
 
 #: ../../accounting/bank/misc/batch.rst:64
 msgid "From checks received to the bank"
@@ -537,11 +537,11 @@ msgstr "Ricevi assegni clienti"
 
 #: ../../accounting/bank/misc/batch.rst:69
 msgid "Once your record checks received, record them on the bank account on which you plan to deposit them. Once you select the bank account (or check journal is you configured Odoo that way), Odoo proposes you to use a batch deposit. Select this option if you plan to deposit the check to your bank."
-msgstr "Una volta ricevuti gli assegni di registrazione, registrali sul conto bancario sul quale prevedi di depositarli. Una volta selezionato il conto bancario (o il diario di controllo è stato configurato Odoo in questo modo), Odoo ti propone di utilizzare un deposito di gruppo. Seleziona questa opzione se prevedi di depositare l'assegno alla tua banca."
+msgstr "Una volta ricevuti gli assegni di registrazione, registrali sul conto bancario sul quale prevedi di depositarli. Una volta selezionato il conto bancario (o il sezionale assegni è stato configurato Odoo in questo modo), Odoo ti propone di utilizzare un deposito di gruppo. Seleziona questa opzione se prevedi di depositare l'assegno alla tua banca."
 
 #: ../../accounting/bank/misc/batch.rst:78
 msgid "In the memo field, you can set the reference of the check."
-msgstr "Nel campo memo, è possibile impostare il riferimento del controllo."
+msgstr "Nel campo memo, è possibile impostare il riferimento dell'assegno."
 
 #: ../../accounting/bank/misc/batch.rst:82
 msgid "payments can be registered from the menu :menuselection:`Sales --> Payments`, or directly on the related invoice, using the **Register Payment** button."
@@ -606,7 +606,7 @@ msgstr "Se nel tuo estratto conto hai un importo inferiore all'importo effettivo
 
 #: ../../accounting/bank/misc/batch.rst:145
 msgid "In this case, click on the line related to this check to remove it from the bank statement matching."
-msgstr "In questo caso, fare clic sulla riga relativa a questo controllo per rimuoverlo dall'accordo dell'estratto conto bancario."
+msgstr "In questo caso, fare clic sulla riga relativa a questo assegno per rimuoverlo dall'accordo dell'estratto conto bancario."
 
 #: ../../accounting/bank/misc/interbank.rst:3
 msgid "How to do a bank wire transfer from one bank to another?"
@@ -638,7 +638,7 @@ msgstr "L'account di trasferimento predefinito verrà generato automaticamente a
 
 #: ../../accounting/bank/misc/interbank.rst:39
 msgid "Create a second bank account / Journal"
-msgstr "Crea un secondo conto bancario / diario"
+msgstr "Crea un secondo conto bancario / sezionale"
 
 #: ../../accounting/bank/misc/interbank.rst:41
 msgid "Before we can register an internal transfer we need to add a new bank to our accounting dashboard. To do so enter the accounting module, click on :menuselection:`Configuration --> Bank Accounts`. Create a new bank account. You should fill in the **Account Number**. You can also create and edit your bank to specify your bank's details."
@@ -737,11 +737,11 @@ msgstr "Innanzitutto, dobbiamo configurare due voci di riconciliazione del model
 
 #: ../../accounting/bank/reconciliation/configure.rst:25
 msgid "We want to be able to book our bank fees easily. Our bank deducts fees depending on our balance, meaning that it can vary every month."
-msgstr "Vogliamo essere in grado di prenotare facilmente le nostre commissioni bancarie. La nostra banca deduce le tasse in base al nostro saldo, il che significa che può variare ogni mese."
+msgstr "Vogliamo essere in grado di prenotare facilmente le nostre commissioni bancarie. La nostra banca deduce le imposte in base al nostro saldo, il che significa che può variare ogni mese."
 
 #: ../../accounting/bank/reconciliation/configure.rst:28
 msgid "We create a button Label called Bank fees, select the correct account to book those fees. Moreover we also need to specify that the amount type is \"Percentage of balance\" with an Amount of 100%. This parameter will tell Odoo to take the entire fee into account."
-msgstr "Creiamo un pulsante Etichetta chiamata Commissioni bancarie, selezionare l'account corretto per prenotare tali commissioni. Inoltre, dobbiamo anche specificare che il tipo di importo è \\ \"Percentuale di saldo \" con un importo del 100%. Questo parametro dirà a Odoo di prendere in considerazione l'intera quota."
+msgstr "Creiamo un pulsante Etichetta chiamata Commissioni bancarie, selezionare l'account corretto per prenotare tali commissioni. Inoltre, dobbiamo anche specificare che il tipo di importo è \"Percentuale di saldo \" con un importo del 100%. Questo parametro dirà a Odoo di prendere in considerazione l'intera quota."
 
 #: ../../accounting/bank/reconciliation/configure.rst:36
 msgid "Save your changes when you are done."
@@ -1007,11 +1007,11 @@ msgstr "Una volta salvato questo conto bancario, Odoo creerà tutti i documenti 
 
 #: ../../accounting/bank/setup/foreign_currency.rst:63
 msgid "An account in the trial balance"
-msgstr "Un account nel bilancio di prova"
+msgstr "Un account nel Bilancino"
 
 #: ../../accounting/bank/setup/foreign_currency.rst:65
 msgid "A journal in your dashboard"
-msgstr "Un diario nella tua dashboard"
+msgstr "Un sezionale nella tua dashboard"
 
 #: ../../accounting/bank/setup/foreign_currency.rst:67
 msgid "Information about the bank account in the footer of your invoices if checked the box **Show in Invoices Footer**"
@@ -1075,7 +1075,7 @@ msgstr "Configurare il giornale in contanti in: menuelezione: `Contabilità -> C
 
 #: ../../accounting/bank/setup/manage_cash_register.rst:17
 msgid "In the tab Journal Entries, the Default Debit and Credit Account can be configured as well as the currency of the journal"
-msgstr "Nella scheda Voci di diario, è possibile configurare il conto addebito e addebito predefinito nonché la valuta del giornale"
+msgstr "Nella scheda Registrazioni Sezionale, è possibile configurare il conto addebito e addebito predefinito nonché la valuta del giornale"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Active"
@@ -1083,7 +1083,7 @@ msgstr "Attivo"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Set active to false to hide the Journal without removing it."
-msgstr "Imposta attivo su falso per nascondere il diario senza rimuoverlo."
+msgstr "Imposta attivo su falso per nascondere il sezionale senza rimuoverlo."
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 #: ../../accounting/others/configuration/account_type.rst
@@ -1128,7 +1128,7 @@ msgstr "Codice corto"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "The journal entries of this journal will be named using this prefix."
-msgstr "Le voci del diario di questo diario saranno nominate usando questo prefisso."
+msgstr "Le registrazioni di questo sezionale saranno numerate usando questo prefisso."
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Next Number"
@@ -1144,7 +1144,7 @@ msgstr "Sequenza di ingresso"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "This field contains the information related to the numbering of the journal entries of this journal."
-msgstr "Questo campo contiene le informazioni relative alla numerazione delle voci del diario di questo giornale."
+msgstr "Questo campo contiene le informazioni relative alla numerazione delle registrazioni di questo sezionale."
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Dedicated Credit Note Sequence"
@@ -1210,7 +1210,7 @@ msgstr "Elettronica: viene pagato automaticamente tramite un acquirente di pagam
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Batch Deposit: Encase several customer checks at once by generating a batch deposit to submit to your bank. When encoding the bank statement in Odoo,you are suggested to reconcile the transaction with the batch deposit. Enable this option from the settings."
-msgstr "Deposito batch: consente di eseguire più controlli cliente contemporaneamente generando un deposito batch da inviare alla banca. Quando si codifica l'estratto conto in Odoo, si suggerisce di riconciliare la transazione con il deposito batch. Abilita questa opzione dalle impostazioni."
+msgstr "Deposito batch: consente di racchiudere diversi assegni cliente contemporaneamente generando un deposito batch da inviare alla banca. Quando si codifica l'estratto conto in Odoo, si suggerisce di riconciliare la transazione con il deposito batch. Abilita questa opzione dalle impostazioni."
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Payment Methods"
@@ -1254,11 +1254,11 @@ msgstr "Utilizzato per registrare una perdita quando il saldo finale di un regis
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Show journal on dashboard"
-msgstr "Mostra il diario sul dashboard"
+msgstr "Mostra il sezionale sul dashboard"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Whether this journal should be displayed on the dashboard or not"
-msgstr "Se questo diario dovrebbe essere visualizzato sul cruscotto o no"
+msgstr "Se questo sezionale dovrebbe essere visualizzato sul cruscotto o no"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Check Printing Payment Method Selected"
@@ -1266,7 +1266,7 @@ msgstr "Verifica stampa Metodo di pagamento selezionato"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Technical feature used to know whether check printing was enabled as payment method."
-msgstr "Funzione tecnica utilizzata per sapere se la stampa del controllo è stata abilitata come metodo di pagamento."
+msgstr "Funzione tecnica utilizzata per sapere se la stampa dell'assegno è stata abilitata come metodo di pagamento."
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Check Sequence"
@@ -1288,11 +1288,11 @@ msgstr "Seleziona questa opzione se i tuoi assegni prestampati non sono numerati
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Next Check Number"
-msgstr "Numero di controllo successivo"
+msgstr "Numero di assegno successivo"
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Sequence number of the next printed check."
-msgstr "Numero di sequenza del successivo controllo stampato."
+msgstr "Numero di sequenza del successivo assegno stampato."
 
 #: ../../accounting/bank/setup/manage_cash_register.rst
 msgid "Creation of bank statement"
@@ -1377,7 +1377,7 @@ msgstr "Gestisci i tuoi beni fissi"
 
 #: ../../accounting/others/adviser/assets.rst:5
 msgid "The \"Assets\" module allows you to keep track of your fixed assets like machinery, land and building. The module allows you to generate monthly depreciation entries automatically, get depreciation board, sell or dispose assets and perform reports on your company assets."
-msgstr "Il modulo \\ \"Risorse \" consente di tenere traccia delle risorse fisse come macchinari, terreni e edifici. Il modulo consente di generare automaticamente voci di ammortamento mensili, ottenere il pannello di ammortamento, vendere o disporre di beni ed eseguire report sui beni aziendali."
+msgstr "Il modulo \"Risorse \" consente di tenere traccia delle Immobilizzazioni come macchinari, terreni e edifici. Il modulo consente di generare automaticamente voci di ammortamento mensili, ottenere il pannello di ammortamento, vendere o disporre di beni ed eseguire report sui beni aziendali."
 
 #: ../../accounting/others/adviser/assets.rst:10
 msgid "As an example, you may buy a car for $36,000 (gross value) and you plan to amortize it over 36 months (3 years). Every months (periodicity), Odoo will create a depreciation entry automatically reducing your assets value by $1,000 and passing $1,000 as an expense. After 3 years, this assets accounts for $0 (salvage value) in your balance sheet."
@@ -1429,7 +1429,7 @@ msgstr "Il tipo di asset viene utilizzato per configurare tutte le informazioni 
 
 #: ../../accounting/others/adviser/assets.rst:51
 msgid "You should create asset types for every group of assets you frequently buy like \"Cars: 5 years\", \"Computer Hardware: 3 years\". For all other assets, you can create generic asset types. Name them according to the duration of the asset like \"36 Months\", \"10 Years\", ..."
-msgstr "Dovresti creare tipi di risorse per ogni gruppo di beni che acquisti frequentemente come \\ \"Automobili: 5 anni \", \\ \"Hardware del computer: 3 anni \". Per tutte le altre risorse, è possibile creare tipi di risorse generiche. Assegnagli un nome in base alla durata della risorsa come \\ \"36 mesi \", \\ \"10 anni \", ..."
+msgstr "Dovresti creare tipi di risorse per ogni gruppo di beni che acquisti frequentemente come \"Automobili: 5 anni \", \"Hardware del computer: 3 anni \". Per tutte le altre risorse, è possibile creare tipi di risorse generiche. Assegnagli un nome in base alla durata della risorsa come \"36 mesi \", \"10 anni \", ..."
 
 #: ../../accounting/others/adviser/assets.rst:56
 msgid "To define asset types, go to :menuselection:`Configuration --> Asset Types`"
@@ -1573,7 +1573,7 @@ msgstr "Le risorse possono essere create automaticamente dalle fatture del forni
 
 #: ../../accounting/others/adviser/assets.rst:100
 msgid "Depending on the information on the asset category, the asset will be created in draft or directly validated\\ *.* It's easier to confirm assets directly so that you won't forget to confirm it afterwards. (check the field *Skip Draft State* on *Asset Category)* Generate assets in draft only when you want your adviser to control all the assets before posting them to your accounts."
-msgstr "A seconda delle informazioni sulla categoria di attività, la risorsa verrà creata in bozza o direttamente convalidata \\ *. * È più facile confermare le risorse direttamente in modo da non dimenticare di confermarle in seguito. (controlla il campo * Skip Draft State * su * Asset Category) * Genera asset in draft solo quando vuoi che il tuo consulente controlli tutte le risorse prima di pubblicarle sui tuoi account."
+msgstr "A seconda delle informazioni sulla categoria di attività, la risorsa verrà creata in bozza o direttamente convalidata *. * È più facile confermare le risorse direttamente in modo da non dimenticare di confermarle in seguito. (controlla il campo * Skip Draft State * su * Asset Category) * Genera asset in draft solo quando vuoi che il tuo consulente controlli tutte le risorse prima di pubblicarle sui tuoi account."
 
 #: ../../accounting/others/adviser/assets.rst:107
 msgid "if you put the asset on the product, the asset category will automatically be filled in the supplier bill."
@@ -1585,15 +1585,15 @@ msgstr "Come deprecare una risorsa?"
 
 #: ../../accounting/others/adviser/assets.rst:113
 msgid "Odoo will create depreciation journal entries automatically at the right date for every confirmed asset. (not the draft ones). You can control in the depreciation board: a green bullet point means that the journal entry has been created for this line."
-msgstr "Odoo creerà le voci del diario di ammortamento automaticamente alla data giusta per ogni risorsa confermata. (non quelli di draft). È possibile controllare nella scheda di ammortamento: un punto elenco verde indica che la voce di diario è stata creata per questa linea."
+msgstr "Odoo creerà le registrazioni sezionale di ammortamento automaticamente alla data giusta per ogni risorsa confermata. (non quelli di draft). È possibile controllare nella scheda di ammortamento: un punto elenco verde indica che la voce di sezionale è stata creata per questa linea."
 
 #: ../../accounting/others/adviser/assets.rst:118
 msgid "But you can also post journal entries before the expected date by clicking on the green bullet and forcing the creation of related depreciation entry."
-msgstr "Ma puoi anche inserire le voci del diario prima della data prevista facendo clic sul pallino verde e forzando la creazione della relativa voce di ammortamento."
+msgstr "Ma puoi anche inserire le registrazioni sezionale prima della data prevista facendo clic sul pallino verde e forzando la creazione della relativa voce di ammortamento."
 
 #: ../../accounting/others/adviser/assets.rst:125
 msgid "In the Depreciation board, click on the red bullet to post the journal entry. Click on the :guilabel:`Items` button on the top to see the journal entries which are already posted."
-msgstr "Nella scheda di ammortamento, fare clic sul punto rosso per pubblicare la voce di diario. Fare clic sul pulsante guilabel: `Items` in alto per vedere le voci del diario che sono già state pubblicate."
+msgstr "Nella scheda di ammortamento, fare clic sul punto rosso per pubblicare la voce di sezionale. Fare clic sul pulsante guilabel: `Items` in alto per vedere le registrazioni sezionale che sono già state pubblicate."
 
 #: ../../accounting/others/adviser/assets.rst:130
 msgid "How to modify an existing asset?"
@@ -1677,7 +1677,7 @@ msgstr "Conto analitico"
 
 #: ../../accounting/others/adviser/budget.rst:71
 msgid "Odoo needs to know which costs or expenses are relevant to a specified budget. To do so we need to link our invoices and expenses to a defined analytical account. Create an analytical account by entering the Accounting module and clicking :menuselection:`Advisers --> Analytic Accounts --> Open Charts`. Create a new Account called Smith&Co project and select the related partner."
-msgstr "Odoo ha bisogno di sapere quali costi o spese sono rilevanti per un budget specificato. Per fare ciò, dobbiamo collegare le nostre fatture e spese ad un conto analitico definito. Crea un account analitico inserendo il modulo Contabilità e facendo clic su: menuelezione: `Consiglieri -> Account analitici -> Apri grafici». Crea un nuovo account chiamato progetto Smith & Co e seleziona il partner correlato."
+msgstr "Odoo ha bisogno di sapere quali costi o spese sono rilevanti per un budget specificato. Per fare ciò, dobbiamo collegare le nostre fatture e spese ad un conto analitico definito. Crea un account analitico inserendo il modulo Contabilità e facendo clic su: menuelezione: `Consulenti -> Conti analitici -> Apri grafici». Crea un nuovo account chiamato progetto Smith & Co e seleziona il partner correlato."
 
 #: ../../accounting/others/adviser/budget.rst:82
 msgid "Set a budget"
@@ -1693,11 +1693,11 @@ msgstr "Per impostare questi obiettivi, inserisci l'app per la contabilità, sel
 
 #: ../../accounting/others/adviser/budget.rst:91
 msgid "We have to give a name to the budget. In this case we'll call it \"Smith Project\". Select the period wherein the budget will be applicable. Next add an item to specify your targets in the Budget Line."
-msgstr "Dobbiamo dare un nome al budget. In questo caso lo chiameremo \\ \"Progetto Smith \". Seleziona il periodo in cui il budget sarà applicabile. Quindi aggiungi un elemento per specificare i tuoi obiettivi nella linea di bilancio."
+msgstr "Dobbiamo dare un nome al budget. In questo caso lo chiameremo \"Progetto Smith \". Seleziona il periodo in cui il budget sarà applicabile. Quindi aggiungi un elemento per specificare i tuoi obiettivi nella linea di bilancio."
 
 #: ../../accounting/others/adviser/budget.rst:98
 msgid "Select the Budgetary Position related to the Budget Line. In other words, select the position that points to the accounts you want to budget. In this case we will start with our 700 maximum charge target. Select the \"Cost\" Budgetary Position and specify the Planned Amount. As we are recording a cost, we need to specify a **negative amount**. Finally, select the corresponding analytic account."
-msgstr "Selezionare la posizione di bilancio relativa alla linea di bilancio. In altre parole, seleziona la posizione che punta agli account che vuoi preventivare. In questo caso inizieremo con il nostro target di carico massimo di 700. Selezionare la posizione di budget \\ \"Costo \" e specificare l'importo pianificato. Poiché stiamo registrando un costo, dobbiamo specificare un **importo negativo**. Infine, seleziona l'account analitico corrispondente."
+msgstr "Selezionare la posizione di bilancio relativa alla linea di bilancio. In altre parole, seleziona la posizione che punta agli account che vuoi preventivare. In questo caso inizieremo con il nostro target di carico massimo di 700. Selezionare la posizione di budget \"Costo \" e specificare l'importo pianificato. Poiché stiamo registrando un costo, dobbiamo specificare un **importo negativo**. Infine, seleziona l'account analitico corrispondente."
 
 #: ../../accounting/others/adviser/budget.rst:108
 msgid "Click on **Save & new** to input the revenue budget. The Budgetary Position is Revenue and the Planned Amount is 1000. Save and close"
@@ -1717,7 +1717,7 @@ msgstr "Puoi controllare il tuo budget in qualsiasi momento. Per vedere l'evoluz
 
 #: ../../accounting/others/adviser/budget.rst:121
 msgid "if you use analytical accounts remember that you need to specify the account in the invoice and / or purchase line."
-msgstr "se si utilizzano account analitici, ricordare che è necessario specificare l'account nella fattura e / o nella riga di acquisto."
+msgstr "se si utilizzano Conti analitici, ricordare che è necessario specificare l'account nella fattura e / o nella riga di acquisto."
 
 #: ../../accounting/others/adviser/budget.rst:125
 msgid "for more information about booking invoices and purchase orders see:"
@@ -1805,7 +1805,7 @@ msgstr "Il tuo contabile / contabile probabilmente verificherà gli elementi del
 
 #: ../../accounting/others/adviser/fiscalyear.rst:50
 msgid "Year-end manual adjustments, using the **Adviser Journal Entries** menu (For example, the **Current Year Earnings** and **Retained Earnings** reports)."
-msgstr "Aggiustamenti manuali di fine anno, utilizzando il menu **Voci del diario del consulente** (ad esempio, i rapporti **Guadagni anno corrente** e **Guadagni rimanenti**)."
+msgstr "Aggiustamenti manuali di fine anno, utilizzando il menu **registrazioni sezionale del consulente** (ad esempio, i rapporti **Ricavi anno corrente** e **Ricavi rimanenti**)."
 
 #: ../../accounting/others/adviser/fiscalyear.rst:54
 msgid "**Work in Progress**."
@@ -1889,7 +1889,7 @@ msgstr "Crea un account analitico."
 
 #: ../../accounting/others/analytic/purchases_expenses.rst:57
 msgid "First of all you should create an Analytical account on which you can point all your expenses. Enter the accounting app, select :menuselection:`Configuration --> Analytic Accounts`. Create a new one. In this case we will call it \"consulting pack\" for our customer Smith&Co."
-msgstr "Prima di tutto dovresti creare un account analitico sul quale puoi puntare tutte le tue spese. Inserire l'app di contabilità, selezionare: menuelezione: `Configurazione -> Account analitici`. Creane uno nuovo In questo caso lo chiameremo \\ \"pacchetto di consulenza \" per il nostro cliente Smith & Co."
+msgstr "Prima di tutto dovresti creare un account analitico sul quale puoi puntare tutte le tue spese. Inserire l'app di contabilità, selezionare: menuelezione: `Configurazione -> Conti analitici`. Creane uno nuovo In questo caso lo chiameremo \"pacchetto di consulenza \" per il nostro cliente Smith & Co."
 
 #: ../../accounting/others/analytic/purchases_expenses.rst:65
 msgid "We will point all our costs to this account to keep track of them."
@@ -1921,7 +1921,7 @@ msgstr "Entra nel modulo Spese, clicca su: menuelezione: `Le mie spese -> Crea`.
 
 #: ../../accounting/others/analytic/purchases_expenses.rst:95
 msgid "Submit to manager and wait for the manager to approve and post the journal entries."
-msgstr "Invia al gestore e attendi che il gestore approvi e pubblichi le voci del diario."
+msgstr "Invia al gestore e attendi che il gestore approvi e pubblichi le registrazioni sezionale."
 
 #: ../../accounting/others/analytic/purchases_expenses.rst:99
 msgid "Create a Purchase Order linked to the analytical account"
@@ -1961,11 +1961,11 @@ msgstr "Ora che tutto è prenotato e indica l'account analitico. Basta aprirlo p
 
 #: ../../accounting/others/analytic/purchases_expenses.rst:136
 msgid "Enter the accounting module, click on :menuselection:`Advisers --> Analytic Accounts --> Open Charts`."
-msgstr "Inserire il modulo di contabilità, fare clic su: menuelezione: `Consiglieri -> Account analitici -> Apri grafici»."
+msgstr "Inserire il modulo di contabilità, fare clic su: menuelezione: `Consiglieri -> Conti analitici -> Apri grafici»."
 
 #: ../../accounting/others/analytic/purchases_expenses.rst:139
 msgid "Select \"consulting pack - Smith\" and click on the cost and revenue button to have an overview of all cost linked to the account."
-msgstr "Seleziona \\ \"pacchetto di consulenza - Smith \" e fai clic sul pulsante costi e entrate per avere una panoramica di tutti i costi collegati all'account."
+msgstr "Seleziona \"pacchetto di consulenza - Smith \" e fai clic sul pulsante costi e entrate per avere una panoramica di tutti i costi collegati all'account."
 
 #: ../../accounting/others/analytic/purchases_expenses.rst:147
 msgid "If you would like to have the revenue as well you should invoice the Consulting Pack in the Invoice menu and link the invoice line to this same analytical account."
@@ -2073,7 +2073,7 @@ msgstr "Senza filtri"
 
 #: ../../accounting/others/analytic/timesheets.rst:126
 msgid "If we pointed all our costs and revenues of the project on the correct analytical account we can easily retrieve the cost and revenues related to this analytical account. Enter the *Accounting* app, select :menuselection:`Adviser --> Analytic Accounts --> Open Charts`."
-msgstr "Se puntiamo tutti i nostri costi e ricavi del progetto sul conto analitico corretto, possiamo facilmente recuperare il costo e le entrate relativi a questo conto analitico. Inserisci l'app * Contabilità *, seleziona: menu-scelta: `Consulente -> Account analitici -> Apri grafici»."
+msgstr "Se puntiamo tutti i nostri costi e ricavi del progetto sul conto analitico corretto, possiamo facilmente recuperare il costo e le entrate relativi a questo conto analitico. Inserisci l'app * Contabilità *, seleziona: menu-scelta: `Consulente -> Conti analitici -> Apri grafici»."
 
 #: ../../accounting/others/analytic/timesheets.rst:131
 msgid "Note : you can specify a period for **Analysis**. If you want to open the current situation you should keep the fields empty. We can already note the credit and debit balance of the account."
@@ -2195,7 +2195,7 @@ msgstr "Gamma di produzione 2"
 
 #: ../../accounting/others/analytic/usage.rst:51
 msgid "In daily use, it is useful to mark the analytic account on each purchase invoice. When the invoice is approved, it will automatically generate the entries for both the general and the corresponding analytic accounts. For each entry on the general accounts, there is at least one analytic entry that allocates costs to the department which incurred them."
-msgstr "Nell'uso quotidiano, è utile contrassegnare l'account analitico su ciascuna fattura di acquisto. Quando la fattura viene approvata, genererà automaticamente le voci sia per gli account analitici generali che per quelli corrispondenti. Per ogni voce nei conti generali, esiste almeno una voce analitica che assegna i costi al dipartimento che li ha sostenuti."
+msgstr "Nell'uso quotidiano, è utile contrassegnare l'account analitico su ciascuna fattura di acquisto. Quando la fattura viene approvata, genererà automaticamente le voci sia per i conti analitici generali che per quelli corrispondenti. Per ogni voce nei conti generali, esiste almeno una voce analitica che assegna i costi al dipartimento che li ha sostenuti."
 
 #: ../../accounting/others/analytic/usage.rst:58
 msgid "Here is a possible breakdown of some general accounting entries for the example above, allocated to various analytic accounts:"
@@ -2207,7 +2207,7 @@ msgstr "** Conti generali **"
 
 #: ../../accounting/others/analytic/usage.rst:62
 msgid "**Analytic accounts**"
-msgstr "** Account analitici **"
+msgstr "** Conti analitici **"
 
 #: ../../accounting/others/analytic/usage.rst:64
 #: ../../accounting/others/analytic/usage.rst:157
@@ -2392,7 +2392,7 @@ msgstr "La fatturazione per i diversi casi è un po 'insolita. I casi non corris
 
 #: ../../accounting/others/analytic/usage.rst:145
 msgid "At the end of the month when you pay salaries and benefits, you integrate them into the general accounts but not in the analytic accounts, because they have already been accounted for in billing each account. A report that relates data from the analytic and general accounts then lets you compare the totals, so you can readjust your estimates of hourly cost per employee depending on the time actually worked."
-msgstr "Alla fine del mese in cui paghi stipendi e benefit, li integri nei conti generali ma non negli account analitici, perché sono già stati contabilizzati nella fatturazione di ciascun account. Un rapporto che collega i dati degli account analitici e generali consente quindi di confrontare i totali, in modo da poter modificare le stime del costo orario per dipendente in base al tempo effettivamente impiegato."
+msgstr "Alla fine del mese in cui paghi stipendi e benefit, li integri nei conti generali ma non nei conti analitici, perché sono già stati contabilizzati nella fatturazione di ciascun account. Un rapporto che collega i dati dei conti analitici e generali consente quindi di confrontare i totali, in modo da poter modificare le stime del costo orario per dipendente in base al tempo effettivamente impiegato."
 
 #: ../../accounting/others/analytic/usage.rst:153
 msgid "The following table shows an example of different analytic entries that you can find for your analytic account:"
@@ -2443,7 +2443,7 @@ msgstr "-60"
 
 #: ../../accounting/others/analytic/usage.rst:165
 msgid "Service charges"
-msgstr "Tasse di servizio"
+msgstr "Imposte di servizio"
 
 #: ../../accounting/others/analytic/usage.rst:165
 msgid "280"
@@ -2616,7 +2616,7 @@ msgstr "I risconti"
 #: ../../accounting/others/configuration/account_type.rst:39
 #: ../../accounting/overview/main_concepts/terminologies.rst:77
 msgid "Fixed Assets"
-msgstr "Risorse fisse"
+msgstr "Immobilizzazioni"
 
 #: ../../accounting/others/configuration/account_type.rst:41
 msgid "Current Liabilities"
@@ -2712,7 +2712,7 @@ msgstr "Consenti riconciliazione"
 
 #: ../../accounting/others/configuration/account_type.rst
 msgid "Check this box if this account allows invoices & payments matching of journal items."
-msgstr "Seleziona questa casella se questo account consente fatture e pagamenti corrispondenti degli articoli del giornale."
+msgstr "Seleziona questa casella se questo conto consente la riconciliazione di pagamenti e fatture."
 
 #: ../../accounting/others/configuration/account_type.rst:86
 msgid "View *Create Account* in our Online Demonstration"
@@ -2728,7 +2728,7 @@ msgstr "Impatto sulla valutazione del prezzo medio al momento della restituzione
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:5
 msgid "As stated in the `*inventory valuation page* <https://www.odoo.com/documentation/functional/valuation.html>`__, one of the possible costing method you can use in perpetual stock valuation, is the average cost."
-msgstr "Come indicato nella * pagina di valutazione dell'inventario * <https://www.odoo.com/documentation/functional/valuation.html> `__, uno dei possibili metodi di calcolo dei costi che è possibile utilizzare nella valutazione di stock perpetua, è il costo medio ."
+msgstr "Come indicato nella * pagina di valutazione dell'inventario * <https://www.odoo.com/documentation/functional/valuation.html>`__, uno dei possibili metodi di calcolo dei costi che è possibile utilizzare nella valutazione di stock perpetua, è il costo medio ."
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:10
 msgid "This document answers to one recurrent question for companies using that method to make their stock valuation: how does a shipping returned to its supplier impact the average cost and the accounting entries? This document is **only** for the specific use case of a perpetual valuation (as opposed to the periodic one) and in average price costing method (as opposed to standard of FIFO)."
@@ -2826,7 +2826,7 @@ msgstr "Ricevi 8 prodotti a $ 10"
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:52
 msgid "+8\\*$10"
-msgstr "8 \\ * $ 10"
+msgstr "+8\\*$10"
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:52
 #: ../../accounting/others/inventory/avg_price_valuation.rst:148
@@ -2853,7 +2853,7 @@ msgstr "Ricevi 4 prodotti a $ 16"
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:54
 msgid "+4\\*$16"
-msgstr "4 \\ * $ 16"
+msgstr "+4\\*$16"
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:54
 #: ../../accounting/others/inventory/avg_price_valuation.rst:152
@@ -2892,7 +2892,7 @@ msgstr "Consegna di 10 prodotti"
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:56
 msgid "-10\\*$12"
-msgstr "-10 \\ * $ 12"
+msgstr "-10\\*$12"
 
 #: ../../accounting/others/inventory/avg_price_valuation.rst:56
 #: ../../accounting/others/inventory/avg_price_valuation.rst:84
@@ -3094,7 +3094,7 @@ msgstr "È possibile recuperare automaticamente i tassi di cambio dalla **Banca 
 #: ../../accounting/others/multicurrencies/exchange.rst:45
 #: ../../accounting/others/multicurrencies/invoices_payments.rst:31
 msgid "Configure your journal"
-msgstr "Configura il tuo diario"
+msgstr "Configura il tuo sezionale"
 
 #: ../../accounting/others/multicurrencies/exchange.rst:47
 msgid "In order to register payments in other currencies, you have to **remove the currency constraint** on the journal. Go to the accounting application, Click on **More** on the journal and **Settings**."
@@ -3115,7 +3115,7 @@ msgstr "Nell'applicazione **Contabilità**, vai a: menuelezione: `Vendite -> Pag
 #: ../../accounting/others/multicurrencies/exchange.rst:71
 #: ../../accounting/others/multicurrencies/invoices_payments.rst:83
 msgid "The journal entry has been posted but not allocated."
-msgstr "La voce di diario è stata pubblicata ma non assegnata."
+msgstr "La voce di sezionale è stata pubblicata ma non assegnata."
 
 #: ../../accounting/others/multicurrencies/exchange.rst:73
 #: ../../accounting/others/multicurrencies/invoices_payments.rst:85
@@ -3140,11 +3140,11 @@ msgstr "Controlla le differenze di cambio"
 
 #: ../../accounting/others/multicurrencies/exchange.rst:99
 msgid "Go to :menuselection:`Adviser --> Journal Entries` and look for the **Exchange difference** journal entries. All the exchange rates differences are recorded in it."
-msgstr "Vai a: menuelezione: `Consulente -> Voci di diario 'e cerca le voci di diario **Differenza di cambio**. Tutte le differenze di cambio sono registrate in esso."
+msgstr "Vai a: menuelezione: `Consulente -> Registrazioni Sezionale 'e cerca le Registrazioni Sezionale **Differenza di cambio**. Tutte le differenze di cambio sono registrate in esso."
 
 #: ../../accounting/others/multicurrencies/exchange.rst:106
 msgid "The Exchange difference journal can be changed in your accounting settings."
-msgstr "Il diario delle differenze di cambio può essere modificato nelle impostazioni di contabilità."
+msgstr "Il sezionale delle differenze di cambio può essere modificato nelle impostazioni di contabilità."
 
 #: ../../accounting/others/multicurrencies/exchange.rst:109
 #: ../../accounting/payables/pay/multiple.rst:153
@@ -3181,7 +3181,7 @@ msgstr "Giornale di cambio"
 
 #: ../../accounting/others/multicurrencies/how_it_works.rst:29
 msgid "The **Rate Difference Journal** records the differences between the payment registration and the expected amount. For example, if a payment is paid 1 month after the invoice was issued, the exchange rate has probably changed. The fluctuation implies some loss or profit that are recorded by Odoo."
-msgstr "Il **Diario delle differenze di frequenza** registra le differenze tra la registrazione del pagamento e l'importo previsto. Ad esempio, se un pagamento viene pagato 1 mese dopo l'emissione della fattura, il tasso di cambio è probabilmente cambiato. Le fluttuazioni implicano perdite o profitti registrati da Odoo."
+msgstr "Il **Sezionale delle differenze di frequenza** registra le differenze tra la registrazione del pagamento e l'importo previsto. Ad esempio, se un pagamento viene pagato 1 mese dopo l'emissione della fattura, il tasso di cambio è probabilmente cambiato. Le fluttuazioni implicano perdite o profitti registrati da Odoo."
 
 #: ../../accounting/others/multicurrencies/how_it_works.rst:35
 msgid "You can change it in the settings:"
@@ -3209,7 +3209,7 @@ msgstr "Tasso di cambio dal vivo"
 
 #: ../../accounting/others/multicurrencies/how_it_works.rst:64
 msgid "By default, the currencies need to be updated manually. But you can synchronize it with `Yahoo <https://finance.yahoo.com/currency-converter/>`__ or the `European Central Bank <http://www.ecb.europa.eu>`__. In :menuselection:`Configuration --> Settings`, go to the **Live Currency Rate** section."
-msgstr "Per impostazione predefinita, le valute devono essere aggiornate manualmente. Ma puoi sincronizzarlo con `Yahoo <https://finance.yahoo.com/currency-converter/>` __ o la `Banca centrale europea <http://www.ecb.europa.eu>` __. In: menuelection: `Configuration -> Settings`, vai alla sezione **Live Currency Rate**."
+msgstr "Per impostazione predefinita, le valute devono essere aggiornate manualmente. Ma puoi sincronizzarlo con `Yahoo <https://finance.yahoo.com/currency-converter/>`__ o la `Banca centrale europea <http://www.ecb.europa.eu>`__. In: menuelection: `Configuration -> Settings`, vai alla sezione **Live Currency Rate**."
 
 #: ../../accounting/others/multicurrencies/how_it_works.rst:69
 msgid "Choose the interval : Manually, Daily, Weekly or Monthly. You can always force the update by clicking on **Update Now**. Select the provider, and you are set !"
@@ -3290,7 +3290,7 @@ msgstr "Durante la riconciliazione, Odoo abbinerà direttamente il pagamento con
 
 #: ../../accounting/others/multicurrencies/how_it_works.rst:162
 msgid "Go to :menuselection:`Adviser --> Journal Entries` and look for the Exchange difference journal entries. All the exchange rates differences are recorded in it."
-msgstr "Vai a: menuelezione: `Consulente -> Voci di diario 'e cerca le voci del diario delle differenze di cambio. Tutte le differenze di cambio sono registrate in esso."
+msgstr "Vai a: menuelezione: `Consulente -> Voci di sezionale 'e cerca le registrazioni sezionale delle differenze di cambio. Tutte le differenze di cambio sono registrate in esso."
 
 #: ../../accounting/others/multicurrencies/how_it_works.rst:170
 msgid ":doc:`invoices_payments`"
@@ -3311,7 +3311,7 @@ msgstr "Odoo fornisce supporto multi-valuta con aggiustamento automatico delle e
 
 #: ../../accounting/others/multicurrencies/invoices_payments.rst:12
 msgid "All the account transactions will be done using the company currency. However you can see two extra fields with the journal entry where secondary currency and amount will visible. You can create multi-currency journals of force a specific currency."
-msgstr "Tutte le transazioni dell'account verranno effettuate utilizzando la valuta della società. Tuttavia, puoi vedere due campi aggiuntivi con la voce del diario dove saranno visibili la valuta e l'importo secondario. È possibile creare giornali multivaluta di forzare una valuta specifica."
+msgstr "Tutte le transazioni dell'account verranno effettuate utilizzando la valuta della società. Tuttavia, puoi vedere due campi aggiuntivi con la voce del sezionale dove saranno visibili la valuta e l'importo secondario. È possibile creare giornali multivaluta di forzare una valuta specifica."
 
 #: ../../accounting/others/multicurrencies/invoices_payments.rst:17
 msgid "When creating an invoice, the currency can be changed very easily; however Odoo takes the company currency as a default assignment. It will convert all the amounts automatically using that currency."
@@ -3359,7 +3359,7 @@ msgstr "Durante la riconciliazione, Odoo corrisponderà direttamente al pagament
 
 #: ../../accounting/others/multicurrencies/invoices_payments.rst:111
 msgid "Go to :menuselection:`Adviser --> Journal Entries` and look for the **Exchange Difference** journal entries. All the exchange rates differences are recorded in it."
-msgstr "Vai a: menuelezione: `Consulente -> Voci di diario 'e cerca le voci del diario **Differenza di scambio**. Tutte le differenze di cambio sono registrate in esso."
+msgstr "Vai a: menuelezione: `Consulente -> Voci di sezionale 'e cerca le registrazioni sezionale **Differenza di scambio**. Tutte le differenze di cambio sono registrate in esso."
 
 #: ../../accounting/others/multicurrencies/invoices_payments.rst:119
 msgid ":doc:`how_it_works`"
@@ -3369,7 +3369,7 @@ msgstr ": Doc: `how_it_works`"
 #: ../../accounting/overview/process_overview/supplier_bill.rst:124
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:106
 msgid "Reporting"
-msgstr "Segnalazioni"
+msgstr "Reportistica"
 
 #: ../../accounting/others/reporting/customize.rst:3
 msgid "How to create a customized reports with your own formulas?"
@@ -3529,7 +3529,7 @@ msgstr "**Riconciliazione bancaria**"
 
 #: ../../accounting/others/reporting/main_reports.rst:20
 msgid "You can annotate every reports to print them and report to your adviser. Export to xls to manage extra analysis. Drill down in the reports to see more details (payments, invoices, journal items, etc.)."
-msgstr "È possibile annotare tutti i report per stamparli e riferire al proprio consulente. Esporta in xls per gestire analisi aggiuntive. Esaminare i report per visualizzare ulteriori dettagli (pagamenti, fatture, voci di diario, ecc.)."
+msgstr "È possibile annotare tutti i report per stamparli e riferire al proprio consulente. Esporta in xls per gestire analisi aggiuntive. Esaminare i report per visualizzare ulteriori dettagli (pagamenti, fatture, Voci Sezionale, ecc.)."
 
 #: ../../accounting/others/reporting/main_reports.rst:24
 msgid "You can also compare values with another period. Choose how many periods you want to compare the chosen time period with. You can choose up to 12 periods back from the date of the report if you don't want to use the default **Previous 1 Period** option."
@@ -3589,7 +3589,7 @@ msgstr "**Margine di profitto netto:**"
 
 #: ../../accounting/others/reporting/main_reports.rst:71
 msgid "The contribution each individual sale made by your business less any direct costs needed to make those sales, as well as any fixed overheads your company has (things like rent, electricity, taxes you need to pay as a result of those sales)."
-msgstr "Il contributo di ogni singola vendita effettuata dalla tua azienda meno i costi diretti necessari per effettuare tali vendite, così come eventuali spese generali fisse della tua azienda (cose come affitto, elettricità, tasse che devi pagare come risultato di quelle vendite)."
+msgstr "Il contributo di ogni singola vendita effettuata dalla tua azienda meno i costi diretti necessari per effettuare tali vendite, così come eventuali spese generali fisse della tua azienda (cose come affitto, elettricità, imposte che devi pagare come risultato di quelle vendite)."
 
 #: ../../accounting/others/reporting/main_reports.rst:77
 msgid "**Return on investment (p.a.):**"
@@ -3678,19 +3678,19 @@ msgstr "Questo rapporto consente di visualizzare **gli importi** e **IVA** per t
 #: ../../accounting/others/taxes.rst:3
 #: ../../accounting/overview/process_overview/customer_invoice.rst:111
 msgid "Taxes"
-msgstr "Tasse"
+msgstr "Imposte"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:3
 msgid "How to manage prices for B2B (tax excluded) and B2C (tax included)?"
-msgstr "Come gestire i prezzi per B2B (tasse escluse) e B2C (tasse incluse)?"
+msgstr "Come gestire i prezzi per B2B (imposte escluse) e B2C (imposte incluse)?"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:5
 msgid "When working with consumers, prices are usually expressed with taxes included in the price (e.g., in most eCommerce). But, when you work in a B2B environment, companies usually negotiate prices with taxes excluded."
-msgstr "Quando si lavora con i consumatori, i prezzi sono generalmente espressi con le tasse incluse nel prezzo (ad es. Nella maggior parte dell'e-commerce). Tuttavia, quando lavori in un ambiente B2B, le aziende negoziano solitamente prezzi con tasse escluse."
+msgstr "Quando si lavora con i consumatori, i prezzi sono generalmente espressi con le imposte incluse nel prezzo (ad es. Nella maggior parte dell'e-commerce). Tuttavia, quando lavori in un ambiente B2B, le aziende negoziano solitamente prezzi con imposte escluse."
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:9
 msgid "Odoo manages both use cases easily, as long as you register your prices on the product with taxes excluded or included, but not both together. If you manage all your prices with tax included (or excluded) only, you can still easily do sales order with a price having taxes excluded (or included): that's easy."
-msgstr "Odoo gestisce facilmente entrambi i casi d'uso, purché i prezzi vengano registrati sul prodotto con le tasse escluse o incluse, ma non entrambe contemporaneamente. Se gestisci tutti i tuoi prezzi con le tasse incluse (o escluse) solo, puoi comunque effettuare facilmente l'ordine di vendita con un prezzo che ha le tasse escluse (o incluse): è facile."
+msgstr "Odoo gestisce facilmente entrambi i casi d'uso, purché i prezzi vengano registrati sul prodotto con le imposte escluse o incluse, ma non entrambe contemporaneamente. Se gestisci tutti i tuoi prezzi con le imposte incluse (o escluse) solo, puoi comunque effettuare facilmente l'ordine di vendita con un prezzo che ha le imposte escluse (o incluse): è facile."
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:15
 msgid "This documentation is only for the specific use case where you need to have two references for the price (tax included or excluded), for the same product. The reason of the complexity is that there is not a symmetrical relationship with prices included and prices excluded, as shown in this use case, in belgium with a tax of 21%:"
@@ -3698,43 +3698,43 @@ msgstr "Questa documentazione è solo per il caso d'uso specifico in cui è nece
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:21
 msgid "Your eCommerce has a product at **10€ (taxes included)**"
-msgstr "Il tuo eCommerce ha un prodotto a **10 € (tasse incluse)**"
+msgstr "Il tuo eCommerce ha un prodotto a **10 € (imposte incluse)**"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:23
 msgid "This would do **8.26€ (taxes excluded)** and a **tax of 1.74€**"
-msgstr "Ciò farebbe **8,26 € (tasse escluse)** e una **tassa di 1,74 €**"
+msgstr "Ciò farebbe **8,26 € (imposte escluse)** e una **tassa di 1,74 €**"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:25
 msgid "But for the same use case, if you register the price without taxes on the product form (8.26€), you get a price with tax included at 9.99€, because:"
-msgstr "Ma per lo stesso caso d'uso, se si registra il prezzo senza tasse sul modulo prodotto (8,26 €), si ottiene un prezzo con tasse incluse a 9,99 €, perché:"
+msgstr "Ma per lo stesso caso d'uso, se si registra il prezzo senza imposte sul modulo prodotto (8,26 €), si ottiene un prezzo con imposte incluse a 9,99 €, perché:"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:29
 msgid "**8.26€ \\* 1.21 = 9.99€**"
-msgstr "** 8,26 € \\ * 1,21 = 9,99 € **"
+msgstr "**8,26€ \\* 1,21 = 9,99 €**"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:31
 msgid "So, depending on how you register your prices on the product form, you will have different results for the price including taxes and the price excluding taxes:"
-msgstr "Quindi, a seconda di come si registrano i prezzi sul modulo del prodotto, si avranno risultati diversi per il prezzo, comprese le tasse e il prezzo tasse escluse:"
+msgstr "Quindi, a seconda di come si registrano i prezzi sul modulo del prodotto, si avranno risultati diversi per il prezzo, comprese le imposte e il prezzo imposte escluse:"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:35
 msgid "Taxes Excluded: **8.26€ & 10.00€**"
-msgstr "Tasse escluse: **8,26 € e 10,00 €**"
+msgstr "Imposte escluse: **8,26 € e 10,00 €**"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:37
 msgid "Taxes Included: **8.26€ & 9.99€**"
-msgstr "Tasse incluse: **8,26 € e 9,99 €**"
+msgstr "Imposte incluse: **8,26 € e 9,99 €**"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:40
 msgid "If you buy 100 pieces at 10€ taxes included, it gets even more tricky. You will get: **1000€ (taxes included) = 826.45€ (price) + 173.55€ (taxes)** Which is very different from a price per piece at 8.26€ tax excluded."
-msgstr "Se acquisti 100 pezzi a 10 € tasse incluse, diventa ancora più difficile. Riceverai: **1000 € (tasse incluse) = 826,45 € (prezzo) + 173,55 € (tasse)** Il che è molto diverso da un prezzo per pezzo a 8,26 € tasse escluse."
+msgstr "Se acquisti 100 pezzi a 10 € imposte incluse, diventa ancora più difficile. Riceverai: **1000 € (imposte incluse) = 826,45 € (prezzo) + 173,55 € (imposte)** Il che è molto diverso da un prezzo per pezzo a 8,26 € imposte escluse."
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:45
 msgid "This documentation explains how to handle the very specific use case where you need to handle the two prices (tax excluded and included) on the product form within the same company."
-msgstr "Questa documentazione spiega come gestire il caso d'uso molto specifico in cui è necessario gestire i due prezzi (tasse escluse e incluse) sul modulo del prodotto all'interno della stessa azienda."
+msgstr "Questa documentazione spiega come gestire il caso d'uso molto specifico in cui è necessario gestire i due prezzi (imposte escluse e incluse) sul modulo del prodotto all'interno della stessa azienda."
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:50
 msgid "In terms of finance, you have no more revenues selling your product at 10€ instead of 9.99€ (for a 21% tax), because your revenue will be exactly the same at 9.99€, only the tax is 0.01€ higher. So, if you run an eCommerce in Belgium, make your customer a favor and set your price at 9.99€ instead of 10€. Please note that this does not apply to 20€ or 30€, or other tax rates, or a quantity >1. You will also make you a favor since you can manage everything tax excluded, which is less error prone and easier for your salespeople."
-msgstr "In termini di finanza, non hai più entrate che vendono il tuo prodotto a 10 € invece di 9,99 € (per una tassa del 21%), perché le tue entrate saranno esattamente le stesse a 9,99 €, solo la tassa è superiore di 0,01 €. Quindi, se gestisci un eCommerce in Belgio, fai un favore ai tuoi clienti e imposta il prezzo a 9,99 € anziché a 10 €. Si prega di notare che questo non si applica a 20 € o 30 €, o altre aliquote fiscali, o una quantità> 1. Potrai anche farti un favore, dal momento che puoi gestire tutte le tasse escluse, il che è meno incline agli errori e più facile per i tuoi venditori."
+msgstr "In termini di finanza, non hai più entrate che vendono il tuo prodotto a 10 € invece di 9,99 € (per una tassa del 21%), perché le tue entrate saranno esattamente le stesse a 9,99 €, solo la tassa è superiore di 0,01 €. Quindi, se gestisci un eCommerce in Belgio, fai un favore ai tuoi clienti e imposta il prezzo a 9,99 € anziché a 10 €. Si prega di notare che questo non si applica a 20 € o 30 €, o altre aliquote fiscali, o una quantità> 1. Potrai anche farti un favore, dal momento che puoi gestire tutte le imposte escluse, il che è meno incline agli errori e più facile per i tuoi venditori."
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:63
 msgid "Introduction"
@@ -3742,11 +3742,11 @@ msgstr "Introduzione"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:65
 msgid "The best way to avoid this complexity is to choose only one way of managing your prices and stick to it: price without taxes or price with taxes included. Define which one is the default stored on the product form (on the default tax related to the product), and let Odoo compute the other one automatically, based on the pricelist and fiscal position. Negotiate your contracts with customers accordingly. This perfectly works out-of-the-box and you have no specific configuration to do."
-msgstr "Il modo migliore per evitare questa complessità è scegliere un solo modo di gestire i prezzi e attenervisi: prezzo senza tasse o prezzo con tasse incluse. Definire quale sia il valore predefinito memorizzato nel modulo del prodotto (sull'imposta predefinita relativa al prodotto) e lasciare che Odoo calcoli automaticamente l'altro, in base al prezzo di listino e alla posizione fiscale. Negozia i tuoi contratti con i clienti di conseguenza. Questo funziona perfettamente e non hai configurazioni specifiche da fare."
+msgstr "Il modo migliore per evitare questa complessità è scegliere un solo modo di gestire i prezzi e attenervisi: prezzo senza imposte o prezzo con imposte incluse. Definire quale sia il valore predefinito memorizzato nel modulo del prodotto (sull'imposta predefinita relativa al prodotto) e lasciare che Odoo calcoli automaticamente l'altro, in base al prezzo di listino e alla posizione fiscale. Negozia i tuoi contratti con i clienti di conseguenza. Questo funziona perfettamente e non hai configurazioni specifiche da fare."
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:73
 msgid "If you can not do that and if you really negotiate some prices with tax excluded and, for other customers, others prices with tax included, you must:"
-msgstr "Se non è possibile farlo e se si negoziano realmente alcuni prezzi con tasse escluse e, per altri clienti, altri prezzi con tasse incluse, è necessario:"
+msgstr "Se non è possibile farlo e se si negoziano realmente alcuni prezzi con imposte escluse e, per altri clienti, altri prezzi con imposte incluse, è necessario:"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:77
 msgid "always store the default price TAX EXCLUDED on the product form, and apply a tax (price included on the product form)"
@@ -3802,7 +3802,7 @@ msgstr "Impostazione della posizione fiscale B2C"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:127
 msgid "From the accounting application, create a B2C fiscal position from this menu: :menuselection:`Configuration --> Fiscal Positions`. This fiscal position should map the VAT 21% (tax excluded of price) with a VAT 21% (tax included in price)"
-msgstr "Dall'applicazione di contabilità, creare una posizione fiscale B2C da questo menu:: menu selection: `Configuration -> Fiscal Positions`. Questa posizione fiscale dovrebbe mappare l'IVA al 21% (tasse escluse del prezzo) con l'IVA al 21% (tasse incluse nel prezzo)"
+msgstr "Dall'applicazione di contabilità, creare una posizione fiscale B2C da questo menu:: menu selection: `Configuration -> Fiscal Positions`. Questa posizione fiscale dovrebbe mappare l'IVA al 21% (imposte escluse del prezzo) con l'IVA al 21% (imposte incluse nel prezzo)"
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:136
 msgid "Test by creating a quotation"
@@ -3834,15 +3834,15 @@ msgstr "Il listino prezzi è nella scheda **Vendite e acquisti** del modulo clie
 
 #: ../../accounting/others/taxes/B2B_B2C.rst:166
 msgid "Note that this is error prone: if you set a fiscal position with tax included in prices but use a pricelist that is not included, you might have wrong prices calculated for you. That's why we usually recommend companies to only work with one price reference."
-msgstr "Nota che questo è soggetto a errori: se imposti una posizione fiscale con tasse incluse nei prezzi ma usi un listino prezzi che non è incluso, potresti avere prezzi errati calcolati per te. Ecco perché di solito consigliamo alle aziende di lavorare solo con un riferimento di prezzo."
+msgstr "Nota che questo è soggetto a errori: se imposti una posizione fiscale con imposte incluse nei prezzi ma usi un listino prezzi che non è incluso, potresti avere prezzi errati calcolati per te. Ecco perché di solito consigliamo alle aziende di lavorare solo con un riferimento di prezzo."
 
 #: ../../accounting/others/taxes/application.rst:3
 msgid "How to adapt taxes to my customer status or localization"
-msgstr "Come adattare le tasse allo stato o alla localizzazione del mio cliente"
+msgstr "Come adattare le imposte allo stato o alla localizzazione del mio cliente"
 
 #: ../../accounting/others/taxes/application.rst:5
 msgid "Most often sales tax rates depend on your customer status or localization. To map taxes, Odoo brings the so-called *Fiscal Positions*."
-msgstr "Il più delle volte le aliquote di imposta sulle vendite dipendono dallo stato o dalla localizzazione del cliente. Per mappare le tasse, Odoo porta le cosiddette * Posizioni Fiscali *."
+msgstr "Il più delle volte le aliquote di imposta sulle vendite dipendono dallo stato o dalla localizzazione del cliente. Per mappare le imposte, Odoo porta le cosiddette * Posizioni Fiscali *."
 
 #: ../../accounting/others/taxes/application.rst:9
 msgid "Create tax mapping"
@@ -3858,11 +3858,11 @@ msgstr "Le principali posizioni fiscali vengono create automaticamente in base a
 
 #: ../../accounting/others/taxes/application.rst:24
 msgid "If you use Odoo Accounting, you can also map the Income/Expense accounts according to the fiscal position. For example, in some countries, revenues from sales are not posted in the same account than revenues from sales in foreign countries."
-msgstr "Se utilizzi Contabilità Odoo, puoi anche mappare i conti Entrate / Spese in base alla posizione fiscale. Ad esempio, in alcuni paesi, i ricavi delle vendite non sono registrati nello stesso conto dei ricavi delle vendite all'estero."
+msgstr "Se utilizzi la Contabilità di Odoo, puoi anche mappare i conti Entrate / Spese in base alla posizione fiscale. Ad esempio, in alcuni paesi, i ricavi delle vendite non sono registrati nello stesso conto dei ricavi delle vendite all'estero."
 
 #: ../../accounting/others/taxes/application.rst:29
 msgid "Adapt taxes to your customer status"
-msgstr "Adeguare le tasse allo stato del cliente"
+msgstr "Adeguare le imposte allo stato del cliente"
 
 #: ../../accounting/others/taxes/application.rst:31
 msgid "If a customer falls into a specific taxation rule, you need to apply a tax-mapping. To do so, create a fiscal position and assign it to your customers."
@@ -3878,7 +3878,7 @@ msgstr "Se si imposta manualmente la posizione fiscale nell'ordine di vendita o 
 
 #: ../../accounting/others/taxes/application.rst:44
 msgid "Adapt taxes to your customer address (destination-based)"
-msgstr "Adeguare le tasse al tuo indirizzo cliente (basato sulla destinazione)"
+msgstr "Adeguare le imposte al tuo indirizzo cliente (basato sulla destinazione)"
 
 #: ../../accounting/others/taxes/application.rst:46
 msgid "Depending on your localization, sales taxes may be origin-based or destination-based. Most states or countries require you to collect taxes at the rate of the destination (i.e. your buyer’s address) while some others require to collect them at the rate effective at the point of origin (i.e. your office or warehouse)."
@@ -3894,7 +3894,7 @@ msgstr "Seleziona la casella * Rileva automaticamente *."
 
 #: ../../accounting/others/taxes/application.rst:54
 msgid "Select a country group, country, state or city to trigger the tax-mapping."
-msgstr "Seleziona un gruppo di paesi, un paese, uno stato o una città per attivare la mappatura delle tasse."
+msgstr "Seleziona un gruppo di paesi, un paese, uno stato o una città per attivare la mappatura delle imposte."
 
 #: ../../accounting/others/taxes/application.rst:59
 msgid "This way if no fiscal position is set on the customer, Odoo will choose the fiscal position matching the shipping address on creating an order."
@@ -3960,7 +3960,7 @@ msgstr "È necessario prima attivare l'impostazione in: menuelezione: `Contabili
 
 #: ../../accounting/others/taxes/cash_basis_taxes.rst:27
 msgid "Once this is done, you can configure your taxes in :menuselection:`Accounting --> Configuration --> Taxes`. You can open a tax and in the *Advanced Options* tab you will see the checkbox *Use Cash Basis*. You will then have to define the *Tax Received Account*."
-msgstr "Fatto ciò, è possibile configurare le tasse in: menuelezione: `Contabilità -> Configurazione -> Tasse '. Puoi aprire una tassa e nella scheda * Opzioni avanzate * vedrai la casella di controllo * Usa la base di cassa *. Dovrai quindi definire l'account * Tax Received *."
+msgstr "Fatto ciò, è possibile configurare le imposte in: menuelezione: `Contabilità -> Configurazione -> Imposte '. Puoi aprire una tassa e nella scheda * Opzioni avanzate * vedrai la casella di controllo * Usa la base di cassa *. Dovrai quindi definire l'account * Tax Received *."
 
 #: ../../accounting/others/taxes/cash_basis_taxes.rst:39
 msgid "What is the impact of cash basis taxes in my accounting ?"
@@ -3972,7 +3972,7 @@ msgstr "Facciamo un esempio. Fai una vendita di $ 100 con una tassa di base del 
 
 #: ../../accounting/others/taxes/cash_basis_taxes.rst:46
 msgid "Customer Invoices Journal"
-msgstr "Diario fatture cliente"
+msgstr "Sezionale fatture cliente"
 
 #: ../../accounting/others/taxes/cash_basis_taxes.rst:50
 #: ../../accounting/others/taxes/cash_basis_taxes.rst:66
@@ -4016,23 +4016,23 @@ msgstr "Conto fiscale $ 15"
 
 #: ../../accounting/others/taxes/cash_basis_taxes.rst:86
 msgid "The two journal items created in the Income Account are neutral but they are needed to insure correct tax reports in Odoo."
-msgstr "Le due voci del journal create nel Conto entrate sono neutre, ma sono necessarie per assicurare i report fiscali corretti in Odoo."
+msgstr "Le due voci sezionale create nel Conto entrate sono neutre, ma sono necessarie per assicurare i report fiscali corretti in Odoo."
 
 #: ../../accounting/others/taxes/create.rst:3
 msgid "How to create new taxes"
-msgstr "Come creare nuove tasse"
+msgstr "Come creare nuove imposte"
 
 #: ../../accounting/others/taxes/create.rst:5
 msgid "Odoo's tax engine is very flexible and support many different type of taxes: value added taxes (VAT), eco-taxes, federal/states/city taxes, retention, withholding taxes, etc. For most countries, your system is pre-configured with the right taxes."
-msgstr "Il motore fiscale di Odoo è molto flessibile e supporta molti diversi tipi di tasse: tasse sul valore aggiunto (IVA), tasse ecologiche, tasse federali / statali / cittadine, ritenuta, ritenuta d'acconto, ecc. Per la maggior parte dei paesi, il tuo sistema è preconfigurato con le giuste tasse"
+msgstr "Il motore fiscale di Odoo è molto flessibile e supporta molti diversi tipi di imposte: imposte sul valore aggiunto (IVA), imposte ecologiche, imposte federali / statali / cittadine, ritenuta, ritenuta d'acconto, ecc. Per la maggior parte dei paesi, il tuo sistema è preconfigurato con le giuste imposte"
 
 #: ../../accounting/others/taxes/create.rst:10
 msgid "This section details how you can define new taxes for specific use cases."
-msgstr "Questa sezione spiega come è possibile definire nuove tasse per casi d'uso specifici."
+msgstr "Questa sezione spiega come è possibile definire nuove imposte per casi d'uso specifici."
 
 #: ../../accounting/others/taxes/create.rst:12
 msgid "Go to :menuselection:`Accounting --> Configuration --> Taxes`. From this menu, you get all the taxes you can use: sales taxes and purchase taxes."
-msgstr "Vai a: menuelezione: `Contabilità -> Configurazione -> Tasse`. Da questo menu, ottieni tutte le tasse che puoi utilizzare: tasse di vendita e tasse di acquisto."
+msgstr "Vai a: menuelezione: `Contabilità -> Configurazione -> Imposte`. Da questo menu, ottieni tutte le imposte che puoi utilizzare: imposte di vendita e imposte di acquisto."
 
 #: ../../accounting/others/taxes/create.rst:18
 msgid "Choose a scope: Sales, Purchase or None (e.g. deprecated tax)."
@@ -4044,7 +4044,7 @@ msgstr "Seleziona un metodo di calcolo:"
 
 #: ../../accounting/others/taxes/create.rst:22
 msgid "**Fixed**: eco-taxes, etc."
-msgstr "**Risolto**: eco-tasse, ecc."
+msgstr "**Risolto**: eco-imposte, ecc."
 
 #: ../../accounting/others/taxes/create.rst:24
 msgid "**Percentage of Price**: most common (e.g. 15% sales tax)"
@@ -4060,7 +4060,7 @@ msgstr "**Gruppo di imposte**: consente di avere una tassa composta"
 
 #: ../../accounting/others/taxes/create.rst:34
 msgid "If you use Odoo Accounting, set a tax account (i.e. where the tax journal item will be posted). This field is optional, if you keep it empty, Odoo posts the tax journal item in the income account."
-msgstr "Se utilizzi Contabilità Odoo, imposta un account fiscale (ovvero dove verrà pubblicato l'elemento del giornale fiscale). Questo campo è facoltativo, se lo tieni vuoto, Odoo pubblica l'articolo del registro fiscale nel conto entrate."
+msgstr "Se utilizzi la Contabilità di Odoo, imposta un conto fiscale (ovvero dove verrà pubblicata la registrazione fiscale). Questo campo è facoltativo, se lo tieni vuoto, Odoo registra la scrittura fiscale nel conto entrate."
 
 #: ../../accounting/others/taxes/create.rst:39
 msgid "If you want to avoid using a tax, you can not delete it because the tax is probably used in several invoices. So, in order to avoid users to continue using this tax, you should set the field *Tax Scope* to *None*."
@@ -4068,7 +4068,7 @@ msgstr "Se si desidera evitare l'uso di una tassa, non è possibile eliminarlo p
 
 #: ../../accounting/others/taxes/create.rst:44
 msgid "If you need more advanced tax mechanism, you can install the module **account_tax_python** and you will be able to define new taxes with Python code."
-msgstr "Se hai bisogno di un meccanismo fiscale più avanzato, puoi installare il modulo **account_tax_python** e sarai in grado di definire nuove tasse con il codice Python."
+msgstr "Se hai bisogno di un meccanismo fiscale più avanzato, puoi installare il modulo **account_tax_python** e sarai in grado di definire nuove imposte con il codice Python."
 
 #: ../../accounting/others/taxes/create.rst:49
 msgid "Advanced configuration"
@@ -4081,7 +4081,7 @@ msgstr "**Etichetta su fatture**: un breve testo su come si desidera che questa 
 
 #: ../../accounting/others/taxes/create.rst:55
 msgid "**Tax Group**: defines where this tax is summed in the invoice footer. All the tax belonging to the same tax group will be grouped on the invoice footer. Examples of tax group: VAT, Retention."
-msgstr "**Gruppo fiscale**: definisce dove questa imposta viene sommata nel footer della fattura. Tutte le tasse appartenenti allo stesso gruppo fiscale saranno raggruppate nel footer della fattura. Esempi di gruppo fiscale: IVA, Retention."
+msgstr "**Gruppo fiscale**: definisce dove questa imposta viene sommata nel footer della fattura. Tutte le imposte appartenenti allo stesso gruppo fiscale saranno raggruppate nel footer della fattura. Esempi di gruppo fiscale: IVA, Retention."
 
 #: ../../accounting/others/taxes/create.rst:59
 msgid "**Include in Analytic Cost**: the tax is counted as a cost and, thus, generate an analytic entry if your invoice uses analytic accounts."
@@ -4099,11 +4099,11 @@ msgstr ": Doc: `application`"
 
 #: ../../accounting/others/taxes/default_taxes.rst:3
 msgid "How to set default taxes"
-msgstr "Come impostare le tasse di default"
+msgstr "Come impostare le imposte di default"
 
 #: ../../accounting/others/taxes/default_taxes.rst:5
 msgid "Taxes applied in your country are installed automatically for most localizations."
-msgstr "Le tasse applicate nel tuo Paese vengono installate automaticamente per la maggior parte delle localizzazioni."
+msgstr "Le imposte applicate nel tuo Paese vengono installate automaticamente per la maggior parte delle localizzazioni."
 
 #: ../../accounting/others/taxes/default_taxes.rst:7
 msgid "Default taxes set in orders and invoices come from each product's Invoicing tab. Such taxes are used when you sell to companies that are in the same country/state than you."
@@ -4115,7 +4115,7 @@ msgstr "Per modificare le imposte predefinite impostate per qualsiasi nuovo prod
 
 #: ../../accounting/others/taxes/default_taxes.rst:20
 msgid "If you work in a multi-companies environment, the sales and purchase taxes may have a different value according to the company you work for. You can login into two different companies and change this field for each company."
-msgstr "Se lavori in un ambiente multisocietà, le tasse di vendita e di acquisto potrebbero avere un valore diverso a seconda della società per cui lavori. Puoi accedere a due diverse società e modificare questo campo per ciascuna azienda."
+msgstr "Se lavori in un ambiente multisocietà, le imposte di vendita e di acquisto potrebbero avere un valore diverso a seconda della società per cui lavori. Puoi accedere a due diverse società e modificare questo campo per ciascuna azienda."
 
 #: ../../accounting/others/taxes/retention.rst:3
 msgid "How to manage withholding taxes?"
@@ -4127,7 +4127,7 @@ msgstr "Una ritenuta alla fonte, detta anche imposta di retention, è un requisi
 
 #: ../../accounting/others/taxes/retention.rst:10
 msgid "With normal taxes, the tax is added to the subtotal to give you the total to pay. As opposed to normal taxes, withholding taxes are deducted from the amount to pay, as the tax will be paid by the customer."
-msgstr "Con le normali tasse, l'imposta viene aggiunta al subtotale per darti il ​​totale da pagare. A differenza delle normali tasse, le ritenute d'acconto vengono detratte dall'importo da pagare, poiché l'imposta sarà pagata dal cliente."
+msgstr "Con le normali imposte, l'imposta viene aggiunta al subtotale per darti il ​​totale da pagare. A differenza delle normali imposte, le ritenute d'acconto vengono detratte dall'importo da pagare, poiché l'imposta sarà pagata dal cliente."
 
 #: ../../accounting/others/taxes/retention.rst:14
 msgid "As, an example, in Colombia you may have the following invoice:"
@@ -4135,11 +4135,11 @@ msgstr "Ad esempio, in Colombia potresti avere la seguente fattura:"
 
 #: ../../accounting/others/taxes/retention.rst:19
 msgid "In this example, the **company** who sent the invoice owes $20 of taxes to the **government** and the **customer** owes $10 of taxes to the **government**."
-msgstr "In questo esempio, la **società** che ha inviato la fattura deve $ 20 di tasse al **governo** e il **cliente** deve $ 10 di tasse al **governo**."
+msgstr "In questo esempio, la **società** che ha inviato la fattura deve $ 20 di imposte al **governo** e il **cliente** deve $ 10 di imposte al **governo**."
 
 #: ../../accounting/others/taxes/retention.rst:25
 msgid "In Odoo, a withholding tax is defined by creating a negative tax. For a retention of 10%, you would configure the following tax (accessible through :menuselection:`Configuration --> Taxes`):"
-msgstr "In Odoo, una ritenuta d'acconto viene definita creando un'imposta negativa. Per una trattenuta del 10%, devi configurare la seguente imposta (accessibile tramite: menuelezione: `Configurazione -> Tasse`):"
+msgstr "In Odoo, una ritenuta d'acconto viene definita creando un'imposta negativa. Per una trattenuta del 10%, devi configurare la seguente imposta (accessibile tramite: menuelezione: `Configurazione -> Imposte`):"
 
 #: ../../accounting/others/taxes/retention.rst:32
 msgid "In order to make it appear as a retention on the invoice, you should set a specific tax group **Retention** on your tax, in the **Advanced Options** tab."
@@ -4155,7 +4155,7 @@ msgstr "Se il mantenimento è una percentuale di un'imposta normale, crea una Im
 
 #: ../../accounting/others/taxes/retention.rst:48
 msgid "Applying retention taxes on invoices"
-msgstr "Applicare le tasse di conservazione sulle fatture"
+msgstr "Applicare le imposte di conservazione sulle fatture"
 
 #: ../../accounting/others/taxes/retention.rst:50
 msgid "Once your tax is created, you can use it on customer forms, sales order or customer invoices. You can apply several taxes on a single customer invoice line."
@@ -4163,7 +4163,7 @@ msgstr "Una volta creata la tua tassa, puoi utilizzarla nei moduli cliente, nell
 
 #: ../../accounting/others/taxes/retention.rst:58
 msgid "When you see the customer invoice on the screen, you get only a **Taxes line** summarizing all the taxes (normal taxes & retentions). But when you print or send the invoice, Odoo does the correct grouping amongst all the taxes."
-msgstr "Quando vedi la fattura del cliente sullo schermo, ricevi solo una **linea di tasse** che riassume tutte le tasse (tasse e ritenute normali). Ma quando si stampa o si invia la fattura, Odoo esegue il raggruppamento corretto tra tutte le tasse."
+msgstr "Quando vedi la fattura del cliente sullo schermo, ricevi solo una **linea di imposte** che riassume tutte le imposte (imposte e ritenute normali). Ma quando si stampa o si invia la fattura, Odoo esegue il raggruppamento corretto tra tutte le imposte."
 
 #: ../../accounting/others/taxes/retention.rst:63
 msgid "The printed invoice will show the different amounts in each tax group."
@@ -4175,7 +4175,7 @@ msgstr "Come impostare i prezzi IVA inclusa"
 
 #: ../../accounting/others/taxes/tax_included.rst:5
 msgid "In most countries, B2C prices are tax-included. To do that in Odoo, check *Included in Price* for each of your sales taxes in :menuselection:`Accounting --> Configuration --> Accounting --> Taxes`."
-msgstr "Nella maggior parte dei paesi, i prezzi B2C sono comprensivi di tasse. Per farlo in Odoo, seleziona * Incluso nel prezzo * per ciascuna delle tue tasse di vendita in: menuelezione: `Contabilità -> Configurazione -> Contabilità -> Tasse`."
+msgstr "Nella maggior parte dei paesi, i prezzi B2C sono comprensivi di imposte. Per farlo in Odoo, seleziona * Incluso nel prezzo * per ciascuna delle tue imposte di vendita in: menuelezione: `Contabilità -> Configurazione -> Contabilità -> Imposte`."
 
 #: ../../accounting/others/taxes/tax_included.rst:12
 msgid "This way the price set on the product form includes the tax. As an example, let's say you have a product with a sales tax of 10%. The sales price on the product form is $100."
@@ -4187,11 +4187,11 @@ msgstr "Se la tassa non è inclusa nel prezzo, otterrai:"
 
 #: ../../accounting/others/taxes/tax_included.rst:18
 msgid "Price without tax: $100"
-msgstr "Prezzo senza tasse: $ 100"
+msgstr "Prezzo senza imposte: $ 100"
 
 #: ../../accounting/others/taxes/tax_included.rst:20
 msgid "Taxes: $10"
-msgstr "Tasse"
+msgstr "Imposte"
 
 #: ../../accounting/others/taxes/tax_included.rst:22
 msgid "Total to pay: $110"
@@ -4203,11 +4203,11 @@ msgstr "Se la tassa è inclusa nel prezzo"
 
 #: ../../accounting/others/taxes/tax_included.rst:26
 msgid "Price without tax: 90.91"
-msgstr "Prezzo senza tasse: 90,91"
+msgstr "Prezzo senza imposte: 90,91"
 
 #: ../../accounting/others/taxes/tax_included.rst:28
 msgid "Taxes: $9.09"
-msgstr "Tasse"
+msgstr "Imposte"
 
 #: ../../accounting/others/taxes/tax_included.rst:30
 msgid "Total to pay: $100"
@@ -4215,7 +4215,7 @@ msgstr "Totale da pagare: $ 100"
 
 #: ../../accounting/others/taxes/tax_included.rst:32
 msgid "You can rely on following documentation if you need both tax-included (B2C) and tax-excluded prices (B2B): :doc:`B2B_B2C`."
-msgstr "Puoi fare affidamento sulla seguente documentazione se hai bisogno sia di tasse incluse (B2C) che di tasse escluse (B2B):: doc: `B2B_B2C`."
+msgstr "Puoi fare affidamento sulla seguente documentazione se hai bisogno sia di imposte incluse (B2C) che di imposte escluse (B2B):: doc: `B2B_B2C`."
 
 #: ../../accounting/others/taxes/tax_included.rst:36
 msgid "Show tax-included prices in eCommerce catalog"
@@ -4223,7 +4223,7 @@ msgstr "Mostra i prezzi inclusi nel catalogo eCommerce"
 
 #: ../../accounting/others/taxes/tax_included.rst:38
 msgid "By default prices displayed in your eCommerce catalog are tax-excluded. To display it in tax-included, check *Show line subtotals with taxes included (B2C)* in :menuselection:`Sales --> Configuration --> Settings` (Tax Display)."
-msgstr "Per impostazione predefinita, i prezzi visualizzati nel catalogo eCommerce sono esclusi dall'IVA. Per visualizzarlo in tasse incluse, selezionare * Mostra subtotali linea con tasse incluse (B2C) * in: menu selection: `Vendite -> Configurazione -> Impostazioni` (Visualizzazione imposte)."
+msgstr "Per impostazione predefinita, i prezzi visualizzati nel catalogo eCommerce sono esclusi dall'IVA. Per visualizzarlo in imposte incluse, selezionare * Mostra subtotali linea con imposte incluse (B2C) * in: menu selection: `Vendite -> Configurazione -> Impostazioni` (Visualizzazione imposte)."
 
 #: ../../accounting/others/taxes/taxcloud.rst:3
 msgid "How to get correct tax rates in the US thanks to TaxCloud"
@@ -4239,7 +4239,7 @@ msgstr "In Tax Cloud"
 
 #: ../../accounting/others/taxes/taxcloud.rst:16
 msgid "Create a free account on `*TaxCloud* <https://taxcloud.net/#register>`__ website."
-msgstr "Crea un account gratuito su `* TaxCloud * <https://taxcloud.net/#register>` __ sito web."
+msgstr "Crea un account gratuito su `* TaxCloud * <https://taxcloud.net/#register>`__ sito web."
 
 #: ../../accounting/others/taxes/taxcloud.rst:18
 msgid "Register your website on TaxCloud to get an *API ID* and an *API Key*."
@@ -4311,11 +4311,11 @@ msgstr "Come configurare la contabilità in odoo?"
 
 #: ../../accounting/overview/getting_started/setup.rst:5
 msgid "The Odoo Accounting application has an implementation guide that you should follow to configure it. It's a step-by-step wizard with links to the different screens you will need."
-msgstr "L'applicazione di contabilità Odoo ha una guida all'implementazione che è necessario seguire per configurarla. È una procedura guidata passo passo con collegamenti ai diversi schermi di cui avrai bisogno."
+msgstr "L'applicazione di Contabilità di Odoo ha una guida all'implementazione che è necessario seguire per configurarla. È una procedura guidata passo passo con collegamenti ai diversi schermi di cui avrai bisogno."
 
 #: ../../accounting/overview/getting_started/setup.rst:9
 msgid "Once you have `installed the Accounting application <https://www.odoo.com/apps/modules/online/account_accountant/>`__, you should click on the top-right progressbar to get access to the implementation guide."
-msgstr "Dopo aver installato l'applicazione di contabilità <https://www.odoo.com/apps/modules/online/account_accountant/> `__, è necessario fare clic sulla barra di avanzamento in alto a destra per accedere alla guida all'implementazione."
+msgstr "Dopo aver `installato l'applicazione di contabilità <https://www.odoo.com/apps/modules/online/account_accountant/>`__, è necessario fare clic sulla barra di avanzamento in alto a destra per accedere alla guida all'implementazione."
 
 #: ../../accounting/overview/getting_started/setup.rst:17
 msgid "The implementation guide will help you through the following steps:"
@@ -4323,7 +4323,7 @@ msgstr "La guida all'implementazione ti aiuterà attraverso i seguenti passaggi:
 
 #: ../../accounting/overview/getting_started/setup.rst:19
 msgid "Completing your company settings"
-msgstr "Completamento delle impostazioni della tua azienda"
+msgstr "Completando le impostazioni della tua azienda"
 
 #: ../../accounting/overview/getting_started/setup.rst:20
 msgid "Entering in your bank accounts"
@@ -4331,7 +4331,7 @@ msgstr "Entrando nei tuoi conti bancari"
 
 #: ../../accounting/overview/getting_started/setup.rst:21
 msgid "Selecting your chart of accounts"
-msgstr "Selezione del piano dei conti"
+msgstr "Selezionando il piano dei conti"
 
 #: ../../accounting/overview/getting_started/setup.rst:22
 msgid "Confirming your usual tax rates"
@@ -4339,7 +4339,7 @@ msgstr "Confermando le solite aliquote fiscali"
 
 #: ../../accounting/overview/getting_started/setup.rst:23
 msgid "Setting up any foreign currencies"
-msgstr "Impostazione di valute estere"
+msgstr "Impostando le valute estere"
 
 #: ../../accounting/overview/getting_started/setup.rst:24
 msgid "Importing your customers"
@@ -4367,7 +4367,7 @@ msgstr "Definire gli utenti per la contabilità"
 
 #: ../../accounting/overview/getting_started/setup.rst:34
 msgid "Once a step is done, you can click on the \"Mark as Done\" button, in the bottom of the screen. That way, you can track the progress of your overall configuration of Odoo."
-msgstr "Una volta che hai fatto un passo, puoi fare clic sul pulsante \\ \"Segna come fatto \", nella parte inferiore dello schermo. In questo modo, puoi tenere traccia dell'avanzamento della configurazione generale di Odoo."
+msgstr "Una volta che hai fatto un passo, puoi fare clic sul pulsante \"Segna come fatto\", nella parte inferiore dello schermo. In questo modo, puoi tenere traccia dell'avanzamento della configurazione generale di Odoo."
 
 #: ../../accounting/overview/main_concepts.rst:3
 msgid "Main Concepts"
@@ -4379,27 +4379,27 @@ msgstr "La contabilità dietro Odoo"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:5
 msgid "This page summarises the way Odoo deals with typical accounts and transactions."
-msgstr "Questa pagina riassume il modo in cui Odoo si occupa di account e transazioni tipici."
+msgstr "Questa pagina riassume il modo in cui Odoo si occupa di conti e transazioni tipiche."
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:9
 msgid "Double-entry bookkeeping"
-msgstr "Contabilità a doppia entrata"
+msgstr "Contabilità in partita doppia"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:11
 msgid "Odoo automatically creates all the behind-the-scenes journal entries for each of your accounting transactions: customer invoices, point of sale order, expenses, inventory moves, etc."
-msgstr "Odoo crea automaticamente tutte le voci del diario dietro le quinte per ciascuna delle tue transazioni contabili: fatture clienti, ordini di punti vendita, spese, movimenti di inventario, ecc."
+msgstr "Odoo crea automaticamente tutte le registrazioni sezionale dietro le quinte per ciascuna delle tue transazioni contabili: fatture clienti, ordini di punti vendita, spese, movimenti di inventario, ecc."
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:15
 msgid "Odoo uses the rules of double-entry bookkeeping system: all journal entries are automatically balanced (sum of debits = sum of credits)."
-msgstr "Odoo utilizza le regole del sistema di contabilità a partita doppia: tutte le voci del diario sono automaticamente bilanciate (somma di debiti = somma dei crediti)."
+msgstr "Odoo utilizza le regole del sistema di contabilità a partita doppia: tutte le registrazioni sezionale sono automaticamente bilanciate (somma di debiti = somma dei crediti)."
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:20
 msgid "`Understand Odoo's accounting transactions per document <https://odoo.com/documentation/functional/accounting.html>`__"
-msgstr "`Comprendere le transazioni contabili di Odoo per documento <https://odoo.com/documentation/functional/accounting.html>` __"
+msgstr "`Comprendere le transazioni contabili di Odoo per documento <https://odoo.com/documentation/functional/accounting.html>`__"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:23
 msgid "Accrual and Cash Basis Methods"
-msgstr "Metodi base ratei e cassa"
+msgstr "Criteri di cassa e per competenza"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:25
 msgid "Odoo support both accrual and cash basis reporting. This allows you to report income / expense at the time transactions occur (i.e., accrual basis), or when payment is made or received (i.e., cash basis)."
@@ -4423,7 +4423,7 @@ msgstr "Multi-valute"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:42
 msgid "Every transaction is recorded in the default currency of the company. For transactions occurring in another currency, Odoo stores both the value in the currency of the company and the value in the currency of the transaction. Odoo can generate currencies gains and losses after the reconciliation of the journal items."
-msgstr "Ogni transazione è registrata nella valuta predefinita della società. Per le transazioni che si verificano in un'altra valuta, Odoo memorizza sia il valore nella valuta della società sia il valore nella valuta della transazione. Odoo può generare guadagni e perdite di valute dopo la riconciliazione degli articoli del giornale."
+msgstr "Ogni transazione è registrata nella valuta predefinita della società. Per le transazioni che si verificano in un'altra valuta, Odoo memorizza sia il valore nella valuta della società sia il valore nella valuta della transazione. Odoo può generare guadagni e perdite di valute dopo la riconciliazione delle voci sezionale."
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:48
 msgid "Currency rates are updated once a day using a yahoo.com online web-service."
@@ -4435,7 +4435,7 @@ msgstr "Standard internazionali"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:54
 msgid "Odoo accounting support more than 50 countries. The Odoo core accounting implement accounting standards that is common to all countries and specific modules exists per country for the specificities of the country like the chart of accounts, taxes, or bank interfaces."
-msgstr "Contabilità Odoo supporta più di 50 paesi. La contabilità principale Odoo implementa standard contabili comuni a tutti i paesi e moduli specifici per paese per le specificità del paese come il piano dei conti, le tasse o le interfacce bancarie."
+msgstr "la Contabilità di Odoo supporta più di 50 paesi. La contabilità principale Odoo implementa standard contabili comuni a tutti i paesi e moduli specifici per paese per le specificità del paese come il piano dei conti, le imposte o le interfacce bancarie."
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:60
 msgid "In particular, Odoo's core accounting engine supports:"
@@ -4451,7 +4451,7 @@ msgstr "Contabilità europea in cui le spese sono contabilizzate sulla fattura d
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:68
 msgid "Storno accounting (Italy) where refund invoices have negative credit/debit instead of a reverting the original journal items."
-msgstr "Contabilità di Storno (Italia) dove le fatture di rimborso hanno un credito / debito negativo invece di un ripristino degli articoli di giornale originali."
+msgstr "Contabilità di Storno (Italia) dove le fatture di rimborso hanno un credito / debito negativo invece di un ripristino registrazioni originali."
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:71
 msgid "Odoo also have modules to comply with IFRS rules."
@@ -4479,7 +4479,7 @@ msgstr "In Odoo, puoi generare report finanziari in tempo reale. I rapporti di O
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:92
 msgid "Performance reports (such as Profit and Loss, Budget Variance)"
-msgstr "Rapporti sul rendimento (come Profit and Loss, Budget Variance)"
+msgstr "Rapporti sul rendimento (come conto economico, Budget Variance)"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:93
 msgid "Position reports (such as Balance Sheet, Aged Payables, Aged Receivables)"
@@ -4491,7 +4491,7 @@ msgstr "Report di cassa (come il riepilogo bancario)"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:96
 msgid "Detail reports (such as Trial Balance and General Ledger)"
-msgstr "Report dettagliati (come Trial Balance e General Ledger)"
+msgstr "Report dettagliati (come Bilancino e Libro Mastro generale)"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:97
 msgid "Management reports (such as Budgets, Executive Summary)"
@@ -4515,7 +4515,7 @@ msgstr "Odoo accelera la riconciliazione bancaria facendo corrispondere la maggi
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:119
 msgid "Calculates the tax you owe your tax authority"
-msgstr "Calcola la tassa dovuta all'autorità fiscale"
+msgstr "Calcola le imposte dovute all'erario"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:121
 msgid "Odoo totals all your accounting transactions for your tax period and uses these totals to calculate your tax obligation. You can then check your sales tax by running Odoo's Tax Report."
@@ -4531,7 +4531,7 @@ msgstr "Odoo supporta valutazioni di inventario periodiche (manuali) e perpetue 
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:134
 msgid "`View impact of the valuation method on your transactions <https://odoo.com/documentation/functional/valuation.html>`__"
-msgstr "`Osserva l'impatto del metodo di valutazione sulle tue transazioni <https://odoo.com/documentation/functional/valuation.html>` __"
+msgstr "`Osserva l'impatto del metodo di valutazione sulle tue transazioni <https://odoo.com/documentation/functional/valuation.html>`__"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:137
 msgid "Easy retained earnings"
@@ -4539,11 +4539,11 @@ msgstr "Guadagni facili da conservare"
 
 #: ../../accounting/overview/main_concepts/in_odoo.rst:139
 msgid "Retained earnings is the portion of income retained by your business. Odoo automatically calculates your current year earnings in real time so no year-end journal or rollover is required.  This is calculated by reporting the profit and loss balance to your balance sheet report automatically."
-msgstr "I guadagni trattenuti rappresentano la porzione di reddito trattenuta dalla tua attività. Odoo calcola automaticamente i tuoi guadagni in corso in tempo reale, quindi non è richiesto alcun journal o rollover di fine anno. Questo viene calcolato riportando automaticamente il bilancio profitti e perdite nel report del bilancio."
+msgstr "I guadagni trattenuti rappresentano la porzione di reddito trattenuta dalla tua attività. Odoo calcola automaticamente i tuoi guadagni in corso in tempo reale, quindi non è richiesto alcun sezionale o rollover di fine anno. Questo viene calcolato riportando automaticamente il bilancio profitti e perdite nel report del bilancio."
 
 #: ../../accounting/overview/main_concepts/intro.rst:3
 msgid "Introduction to Odoo Accounting"
-msgstr "Introduzione alla contabilità Odoo"
+msgstr "Introduzione alla Contabilità di Odoo"
 
 #: ../../accounting/overview/main_concepts/intro.rst:11
 msgid "Transcript"
@@ -4559,7 +4559,7 @@ msgstr "Odoo si collega direttamente alla tua banca o al tuo account paypal. Le 
 
 #: ../../accounting/overview/main_concepts/intro.rst:18
 msgid "Instantly create invoices and send them with just a click. No need to print them."
-msgstr "Crea istantaneamente fatture e inviale con un semplice clic. Non c'è bisogno di stamparli."
+msgstr "Crea istantaneamente fatture e inviale con un semplice clic. Non c'è bisogno di stamparle."
 
 #: ../../accounting/overview/main_concepts/intro.rst:20
 msgid "Odoo can send them for you by email or regular mail."
@@ -4571,7 +4571,7 @@ msgstr "I tuoi clienti pagano online, il che significa che ottieni subito i tuoi
 
 #: ../../accounting/overview/main_concepts/intro.rst:24
 msgid "Odoo accounting is connected with all Odoo our apps such as sale, purchase, inventory and subscriptions."
-msgstr "La contabilità Odoo è collegata a tutte le nostre app Odoo come vendita, acquisto, inventario e abbonamenti."
+msgstr "La Contabilità di Odoo è collegata a tutte le nostre app Odoo come vendita, acquisto, inventario e abbonamenti."
 
 #: ../../accounting/overview/main_concepts/intro.rst:27
 msgid "This way, recording vendor bills is also super quick. Set a vendor, select the purchase order and Odoo fills in everything for you automatically."
@@ -4579,7 +4579,7 @@ msgstr "In questo modo, la registrazione delle fatture dei fornitori è anche su
 
 #: ../../accounting/overview/main_concepts/intro.rst:30
 msgid "Then, just use the SEPA protocol or print checks to pay vendors in batches."
-msgstr "Quindi, è sufficiente utilizzare il protocollo SEPA o stampare assegni per pagare i fornitori in lotti."
+msgstr "Quindi, è sufficiente utilizzare il protocollo SEPA o stampare assegni per pagare i fornitori in gruppo."
 
 #: ../../accounting/overview/main_concepts/intro.rst:33
 msgid "It's that easy with Odoo."
@@ -4591,7 +4591,7 @@ msgstr "Aspetta, c'è di più. Amerai i rapporti Odoo. Dalle dichiarazioni legal
 
 #: ../../accounting/overview/main_concepts/intro.rst:39
 msgid "Of course, Odoo is mobile too. You can use it to check your accounts on the go."
-msgstr "Ovviamente anche Odoo è mobile. Puoi usarlo per controllare i tuoi account mentre sei in giro."
+msgstr "Ovviamente anche Odoo è mobile. Puoi usarlo per controllare i tuoi conti mentre sei in giro."
 
 #: ../../accounting/overview/main_concepts/intro.rst:41
 msgid "Try Odoo now, and join 2 millions of happy users."
@@ -4615,7 +4615,7 @@ msgstr "**Le spese operative** (OPEX) comprendono gli stipendi di amministrazion
 
 #: ../../accounting/overview/main_concepts/memento.rst:27
 msgid "The **Balance Sheet** is a snapshot of the company's finances at a specific date (as opposed to the Profit and Loss which is an analysis over a period)"
-msgstr "Il **Bilancio** è un'istantanea delle finanze della società in una data specifica (al contrario di Profit and Loss che è un'analisi su un periodo)"
+msgstr "Il **Bilancio** è un'istantanea delle finanze della società in una data specifica (al contrario del conto economico che è un'analisi su un periodo)"
 
 #: ../../accounting/overview/main_concepts/memento.rst:32
 msgid "**Assets** represent the company's wealth, things it owns. Fixed assets includes building and offices, current assets include bank accounts and cash. A client owing money is an asset. An employee is not an asset."
@@ -4643,7 +4643,7 @@ msgstr "Viene fatta una differenza tra l'acquisto di un bene (ad es. Un edificio
 
 #: ../../accounting/overview/main_concepts/memento.rst:64
 msgid "Assets = Liabilities + Equity"
-msgstr "beni passività equity"
+msgstr "Attività = Passività + Capitale"
 
 #: ../../accounting/overview/main_concepts/memento.rst:67
 msgid "Chart of Accounts"
@@ -4659,15 +4659,15 @@ msgstr "Saldo = Debito - Credito"
 
 #: ../../accounting/overview/main_concepts/memento.rst:84
 msgid "Journal Entries"
-msgstr "- Journals"
+msgstr "Registrazioni Sezionale"
 
 #: ../../accounting/overview/main_concepts/memento.rst:86
 msgid "Every financial document of the company (e.g. an invoice, a bank statement, a pay slip, a capital increase contract) is recorded as a journal entry, impacting several accounts."
-msgstr "Ogni documento finanziario della società (ad esempio una fattura, un estratto conto bancario, una busta paga, un contratto di aumento di capitale) viene registrato come una registrazione a giornale, con impatto su diversi conti."
+msgstr "Ogni documento finanziario della società (ad esempio una fattura, un estratto conto bancario, una busta paga, un contratto di aumento di capitale) viene registrato come una registrazione contabile, con impatto su diversi conti."
 
 #: ../../accounting/overview/main_concepts/memento.rst:90
 msgid "For a journal entry to be *balanced*, the sum of all its debits must be equal to the sum of all its credits."
-msgstr "Affinché una voce di giornale sia * bilanciata *, la somma di tutti i suoi debiti deve essere uguale alla somma di tutti i suoi crediti."
+msgstr "Affinché una registrazione contabile sia *bilanciata*, la somma di tutti i suoi debiti deve essere uguale alla somma di tutti i suoi crediti."
 
 #: ../../accounting/overview/main_concepts/memento.rst:95
 msgid "examples of accounting entries for various transactions. Example:"
@@ -4730,7 +4730,7 @@ msgstr "Ricevi $ 1,090 sul tuo conto bancario"
 
 #: ../../accounting/overview/main_concepts/memento.rst:124
 msgid "Bank Account: defined on the related bank journal"
-msgstr "Conto bancario: definito sul relativo giornale bancario"
+msgstr "Conto bancario: definito sul relativo sezionale bancario"
 
 #: ../../accounting/overview/main_concepts/memento.rst:130
 #: ../../accounting/overview/main_concepts/memento.rst:216
@@ -4742,7 +4742,7 @@ msgstr "Riconciliazione"
 
 #: ../../accounting/overview/main_concepts/memento.rst:132
 msgid "Reconciliation is the process of linking journal items of a specific account, matching credits and debits."
-msgstr "La riconciliazione è il processo di collegamento di elementi di giornale di un account specifico, corrispondenti crediti e debiti."
+msgstr "La riconciliazione è il processo di collegamento delle registrazioni di un conto specifico, facendo corrispondere crediti e debiti."
 
 #: ../../accounting/overview/main_concepts/memento.rst:135
 msgid "Its primary purpose is to link payments to their related invoices in order to mark invoices that are paid and clear the customer statement. This is done by doing a reconciliation on the *Accounts Receivable* account."
@@ -4750,7 +4750,7 @@ msgstr "Il suo scopo principale è quello di collegare i pagamenti alle relative
 
 #: ../../accounting/overview/main_concepts/memento.rst:139
 msgid "An invoice is marked as paid when its Accounts Receivable journal items are reconciled with the related payment journal items."
-msgstr "Una fattura viene contrassegnata come pagata quando gli articoli del giornale Contabilità clienti sono riconciliati con gli articoli del giornale di pagamento correlati."
+msgstr "Una fattura viene contrassegnata come pagata quando le sue registrazioni di credito sono riconciliate con le registrazioni di pagamento correlate."
 
 #: ../../accounting/overview/main_concepts/memento.rst:142
 msgid "Reconciliation is performed automatically by the system when:"
@@ -4889,7 +4889,7 @@ msgstr "registrato come nuovo pagamento:"
 
 #: ../../accounting/overview/main_concepts/memento.rst:187
 msgid "the payment's journal entry is created and :ref:`reconciled <accounting/reconciliation>` with the related invoice when processing the bank statement"
-msgstr "la registrazione a giornale del pagamento viene creata e: ref: `riconciliata <contabilità / riconciliazione>` con la relativa fattura durante l'elaborazione dell'estratto conto"
+msgstr "la registrazione del pagamento viene creata e :ref:`reconciled <accounting/reconciliation>` con la relativa fattura durante l'elaborazione dell'estratto conto"
 
 #: ../../accounting/overview/main_concepts/memento.rst:191
 msgid "recorded as another transaction:"
@@ -4913,15 +4913,15 @@ msgstr "Esistono due approcci per gestire gli assegni e il bonifico interno:"
 
 #: ../../accounting/overview/main_concepts/memento.rst:205
 msgid "Two journal entries and a reconciliation"
-msgstr "Due voci del diario e una riconciliazione"
+msgstr "Due registrazioni sezionale e una riconciliazione"
 
 #: ../../accounting/overview/main_concepts/memento.rst:206
 msgid "One journal entry and a bank reconciliation"
-msgstr "Una registrazione a giornale e una riconciliazione bancaria"
+msgstr "Una registrazione sezionale e una riconciliazione bancaria"
 
 #: ../../accounting/overview/main_concepts/memento.rst:210
 msgid "The first journal entry is created by registering the payment on the invoice. The second one is created when registering the bank statement."
-msgstr "La prima registrazione a giornale viene creata registrando il pagamento sulla fattura. Il secondo viene creato quando si registra l'estratto conto."
+msgstr "La prima registrazione sezionale viene creata registrando il pagamento sulla fattura. Il secondo viene creato quando si registra l'estratto conto."
 
 #: ../../accounting/overview/main_concepts/memento.rst:216
 #: ../../accounting/overview/main_concepts/memento.rst:226
@@ -4981,7 +4981,7 @@ msgstr "Banca"
 
 #: ../../accounting/overview/main_concepts/memento.rst:235
 msgid "A journal entry is created by registering the payment on the invoice. When reconciling the bank statement, the statement line is linked to the existing journal entry."
-msgstr "Una registrazione a giornale viene creata registrando il pagamento sulla fattura. Durante la riconciliazione dell'estratto conto, la riga dell'istruzione è collegata alla voce di giornale esistente."
+msgstr "Una registrazione sezionale viene creata registrando il pagamento sulla fattura. Durante la riconciliazione dell'estratto conto, la riga dell'istruzione è collegata alla voce di giornale esistente."
 
 #: ../../accounting/overview/main_concepts/memento.rst:242
 msgid "Bank Statement"
@@ -4997,11 +4997,11 @@ msgstr "Terminologie contabili"
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:6
 msgid "Journal"
-msgstr "Diario"
+msgstr "Sezionale"
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:9
 msgid "A journal is like a folder in which you record all transactions of the same type: all the statements of a bank account, all customer invoices, all supplier bills. It's used to organize similar transactions together."
-msgstr "Un diario è come una cartella in cui si registrano tutte le transazioni dello stesso tipo: tutte le dichiarazioni di un conto bancario, tutte le fatture dei clienti, tutte le fatture del fornitore. È usato per organizzare transazioni simili insieme."
+msgstr "Un sezionale è come una cartella in cui si registrano tutte le transazioni dello stesso tipo: tutte le dichiarazioni di un conto bancario, tutte le fatture dei clienti, tutte le fatture del fornitore. È usato per organizzare transazioni simili insieme."
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:13
 msgid "Payment Terms"
@@ -5017,7 +5017,7 @@ msgstr "La riconciliazione bancaria è il processo di corrispondenza delle trans
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:29
 msgid "Journal items reconciliation is the process of linking several journal items together like an invoice and a payment. This allows you to mark invoices as paid. It is also useful when comparing values of 'goods received not invoiced' and 'goods shipped not billed' accounts."
-msgstr "La riconciliazione degli elementi del journal è il processo di collegamento di più articoli del journal insieme come una fattura e un pagamento. Ciò consente di contrassegnare le fatture come pagate. È anche utile quando si confrontano i valori dei conti \"merce ricevuta non fatturata\" e \"merce spedita non fatturata\"."
+msgstr "La riconciliazione degli elementi del sezionale è il processo di collegamento di più articoli del sezionale insieme come una fattura e un pagamento. Ciò consente di contrassegnare le fatture come pagate. È anche utile quando si confrontano i valori dei conti \"merce ricevuta non fatturata\" e \"merce spedita non fatturata\"."
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:33
 msgid "Deposit Ticket"
@@ -5029,27 +5029,27 @@ msgstr "I biglietti di deposito raggruppano più ordini di pagamento (di solito 
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:40
 msgid "Journal Entry"
-msgstr "Annotazione"
+msgstr "Registrazione sezionale"
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:43
 msgid "A journal entry is an accounting transaction, usually related to a financial document: invoice, payment, receipt, etc. A journal entry always consists of at least two lines, described here as journal items, which credit or debit specific accounts. The sum of the credits of all journal items of a journal entry must be equal to the sum of their debits for the entry to be valid."
-msgstr "Una registrazione a giornale è una transazione contabile, solitamente relativa a un documento finanziario: fattura, pagamento, ricevuta, ecc. Una registrazione a giornale consiste sempre di almeno due righe, descritte qui come voci di giornale, quali conti specifici di credito o debito. La somma dei crediti di tutti gli elementi del diario di una registrazione a giornale deve essere uguale alla somma dei loro debiti affinché la voce sia valida."
+msgstr "Una registrazione sezionale è una transazione contabile, solitamente relativa a un documento finanziario: fattura, pagamento, ricevuta, ecc. Una registrazione sezionale consiste sempre di almeno due righe, descritte qui come voci di giornale, quali conti specifici di credito o debito. La somma dei crediti di tutti gli elementi del sezionale di una registrazione sezionale deve essere uguale alla somma dei loro debiti affinché la voce sia valida."
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:50
 msgid "Journal Item"
-msgstr "Articolo di giornale"
+msgstr "Voce sezionale"
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:53
 msgid "A line of a journal entry, with a monetary debit or credit associated with a specific account."
-msgstr "Una riga di una voce di diario, con un debito o credito monetario associato a un account specifico."
+msgstr "Una riga di una voce di sezionale, con un debito o credito monetario associato a un account specifico."
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:55
 msgid "Analytic Accounts"
-msgstr "Account analitici"
+msgstr "Conti analitici"
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:58
 msgid "Sometimes called **Cost Accounts**, are accounts that are not part of the chart of accounts and that allow you to track costs and revenues. Analytic accounts are usually grouped by projects, departments, etc. for analysis of a company's expenditures. Every journal item is posted in a regular account in the chart of account and can be posted to an analytic account for the purpose of reporting or analysis."
-msgstr "A volte chiamati **Account di costo**, sono account che non fanno parte del piano dei conti e che consentono di tenere traccia dei costi e dei ricavi. I conti analitici sono generalmente raggruppati per progetti, dipartimenti, ecc. Per l'analisi delle spese di un'azienda. Ogni elemento del journal viene registrato in un account normale nel piano del conto e può essere registrato su un account analitico a scopo di report o analisi."
+msgstr "A volte chiamati **Account di costo**, sono account che non fanno parte del piano dei conti e che consentono di tenere traccia dei costi e dei ricavi. I conti analitici sono generalmente raggruppati per progetti, dipartimenti, ecc. Per l'analisi delle spese di un'azienda. Ogni elemento del sezionale viene registrato in un account normale nel piano del conto e può essere registrato su un account analitico a scopo di report o analisi."
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:65
 msgid "Analytic Entries"
@@ -5057,7 +5057,7 @@ msgstr "Voci analitiche"
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:68
 msgid "Costs or revenues posted to analytic accounts, usually related to journal entries."
-msgstr "Costi o ricavi registrati su conti analitici, in genere correlati a voci di diario."
+msgstr "Costi o ricavi registrati su conti analitici, in genere correlati a Registrazioni Sezionale."
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:70
 msgid "Sales Receipt"
@@ -5085,7 +5085,7 @@ msgstr "Posizione fiscale"
 
 #: ../../accounting/overview/main_concepts/terminologies.rst:96
 msgid "Define the taxes that should be applied for a specific customer/vendor or invoice. Example: If some customers benefit from specific taxes (government, construction companies, EU companies that are VAT subjected,…), you can assign a fiscal position to them and the right tax will be selected according to the products they buy."
-msgstr "Definire le tasse che dovrebbero essere applicate per uno specifico cliente / fornitore o fattura. Esempio: se alcuni clienti beneficiano di imposte specifiche (governo, imprese di costruzione, società europee soggette a IVA, ...), è possibile assegnare loro una posizione fiscale e l'imposta corretta verrà selezionata in base ai prodotti acquistati."
+msgstr "Definire le imposte che dovrebbero essere applicate per uno specifico cliente / fornitore o fattura. Esempio: se alcuni clienti beneficiano di imposte specifiche (governo, imprese di costruzione, società europee soggette a IVA, ...), è possibile assegnare loro una posizione fiscale e l'imposta corretta verrà selezionata in base ai prodotti acquistati."
 
 #: ../../accounting/overview/process_overview.rst:3
 msgid "Process overview"
@@ -5105,7 +5105,7 @@ msgstr "Dalla bozza di fattura a profitti e perdite"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:14
 msgid "If we pick up at the end of a typical 'order to cash' scenario, after the goods have been shipped, you will: issue an invoice; receive payment; deposit that payment at the bank; make sure the Customer Invoice is closed; follow up if Customers are late; and finally present your Income on the Profit and Loss report and show the decrease in Assets on the Balance Sheet report."
-msgstr "Se ritiriamo alla fine di un tipico scenario di \"ordine in contanti\", dopo che le merci sono state spedite, emetterete: emettete una fattura; ricevere un pagamento; depositare tale pagamento in banca; assicurarsi che la fattura cliente sia chiusa; follow-up se i clienti sono in ritardo; e infine presentare il tuo reddito nel rapporto Profit and Loss e mostrare la diminuzione delle attività nel bilancio."
+msgstr "Se ritiriamo alla fine di un tipico scenario di \"ordine in contanti\", dopo che le merci sono state spedite, emetterete: emettete una fattura; ricevere un pagamento; depositare tale pagamento in banca; assicurarsi che la fattura cliente sia chiusa; follow-up se i clienti sono in ritardo; e infine presentare il tuo reddito nel rapporto Conto Economico e mostrare la diminuzione delle attività nel bilancio."
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:21
 msgid "Invoicing in most countries occurs when a contractual obligation is met. If you ship a box to a customer, you have met the terms of the contract and can bill them. If your supplier sends you a shipment, they have met the terms of that contract and can bill you. Therefore, the terms of the contract is fulfilled when the box moves to or from the truck. At this point, Odoo supports the creation of what is called a Draft Invoice by Warehouse staff."
@@ -5149,15 +5149,15 @@ msgstr "Prodotto: iMac"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:54
 msgid "Quantity: 1"
-msgstr "71 Quantità"
+msgstr "Quantità: 1"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:55
 msgid "Unit Price: 100"
-msgstr "Prezzo Unitario"
+msgstr "Prezzo Unitario: 100"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:56
 msgid "Taxes: Tax 15%"
-msgstr "Tasse: Tassa del 15%"
+msgstr "Imposte: Tassa del 15%"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:64
 msgid "The document is composed of three parts:"
@@ -5173,7 +5173,7 @@ msgstr "il corpo principale della fattura, con linee di fatturazione dettagliate
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:68
 msgid "the bottom of the page, with detail about the taxes, and the totals."
-msgstr "il fondo della pagina, con dettagli sulle tasse e i totali."
+msgstr "il fondo della pagina, con dettagli sulle imposte e i totali."
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:71
 msgid "Open or Pro-forma invoices"
@@ -5185,7 +5185,7 @@ msgstr "Una fattura di solito include la quantità e il prezzo dei beni e / o se
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:77
 msgid "\"Validate\" the invoice when you are ready to approve it. The invoice then moves from the Draft state to the Open state."
-msgstr "\\ \"Convalida \" la fattura quando sei pronto ad approvarla. La fattura quindi passa dallo stato Draft allo stato Aperto."
+msgstr "\"Convalida\" la fattura quando sei pronto ad approvarla. La fattura quindi passa dallo stato Bozza allo stato Aperto."
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:80
 msgid "When you have validated an invoice, Odoo gives it a unique number from a defined, and modifiable, sequence."
@@ -5193,7 +5193,7 @@ msgstr "Dopo aver convalidato una fattura, Odoo fornisce un numero univoco da un
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:86
 msgid "Accounting entries corresponding to this invoice are automatically generated when you validate the invoice. You can see the details by clicking on the entry in the Journal Entry field in the \"Other Info\" tab."
-msgstr "Le voci contabili corrispondenti a questa fattura vengono generate automaticamente quando si convalida la fattura. È possibile visualizzare i dettagli facendo clic sulla voce nel campo Inserimento prima nota nella scheda \\ \"Altre informazioni \"."
+msgstr "Le voci contabili corrispondenti a questa fattura vengono generate automaticamente quando si convalida la fattura. È possibile visualizzare i dettagli facendo clic sulla voce nel campo Inserimento prima nota nella scheda \"Altre informazioni\"."
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:95
 msgid "Send the invoice to customer"
@@ -5205,7 +5205,7 @@ msgstr "Dopo aver convalidato la fattura del cliente, è possibile inviarla dire
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:103
 msgid "A typical journal entry generated from a validated invoice will look like as follows:"
-msgstr "Una tipica registrazione a giornale generata da una fattura convalidata avrà il seguente aspetto:"
+msgstr "Una tipica registrazione sezionale generata da una fattura convalidata avrà il seguente aspetto:"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:107
 #: ../../accounting/overview/process_overview/customer_invoice.rst:128
@@ -5254,7 +5254,7 @@ msgstr "In Odoo, una fattura viene considerata pagata quando la voce contabile a
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:124
 msgid "A typical journal entry generated from a payment will look like as follows:"
-msgstr "Una tipica registrazione a giornale generata da un pagamento avrà il seguente aspetto:"
+msgstr "Una tipica registrazione sezionale generata da un pagamento avrà il seguente aspetto:"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:136
 msgid "Receive a partial payment through the bank statement"
@@ -5281,8 +5281,8 @@ msgid "You can now go through every transaction and reconcile them or you can ma
 msgstr "Ora puoi esaminare tutte le transazioni e riconciliarle oppure puoi riconciliarti in massa con le istruzioni in basso."
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:158
-msgid "After reconciling the items in the sheet, the related invoice will now display \"You have outstanding payments for this customer. You can reconcile them to pay this invoice. \""
-msgstr "Dopo aver riconciliato gli articoli nel foglio, verrà visualizzata la relativa fattura \\ \"Hai pagamenti in sospeso per questo cliente. Puoi riconciliarli per pagare questa fattura. \""
+msgid "After reconciling the items in the sheet, the related invoice will now display \"You have outstanding payments for this customer. You can reconcile them to pay this invoice.\""
+msgstr "Dopo aver riconciliato gli articoli nel foglio, verrà visualizzata la relativa fattura \"Hai pagamenti in sospeso per questo cliente. Puoi riconciliarli per pagare questa fattura.\""
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:168
 msgid "Apply the payment. Below, you can see that the payment has been added to the invoice."
@@ -5294,7 +5294,7 @@ msgstr "Follow-up dei pagamenti"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:177
 msgid "There's a growing trend of customers paying bills later and later. Therefore, collectors must make every effort to collect money and collect it faster."
-msgstr "C'è una crescente tendenza dei clienti a pagare le bollette più tardi. Pertanto, i collezionisti devono fare ogni sforzo per raccogliere denaro e raccoglierlo più velocemente."
+msgstr "C'è una crescente tendenza dei clienti a pagare le fattura più tardi. Pertanto, i riscossori devono fare ogni sforzo per raccogliere denaro e raccoglierlo più velocemente."
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:181
 msgid "Odoo will help you define your follow-up strategy. To remind customers to pay their outstanding invoices, you can define different actions depending on how severely overdue the customer is. These actions are bundled into follow-up levels that are triggered when the due date of an invoice has passed a certain number of days. If there are other overdue invoices for the same customer, the actions of the most overdue invoice will be executed."
@@ -5306,11 +5306,11 @@ msgstr "Accedendo al record del cliente e immergendosi nel \\ \"Pagamenti scadut
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:199
 msgid "Customer aging report:"
-msgstr "Rapporto sull'invecchiamento della clientela"
+msgstr "Rapporto sulla maturazione dei crediti:"
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:201
 msgid "The customer aging report will be an additional key tool for the collector to understand the customer credit issues, and to prioritize their work."
-msgstr "Il rapporto sull'invecchiamento del cliente sarà uno strumento chiave aggiuntivo per il collezionista per comprendere le questioni relative al credito dei clienti e per dare la priorità al loro lavoro."
+msgstr "Il rapporto sulla maturazione dei crediti sarà uno strumento chiave aggiuntivo per il riscossore per comprendere le questioni relative al credito dei clienti e per dare la priorità al loro lavoro."
 
 #: ../../accounting/overview/process_overview/customer_invoice.rst:205
 msgid "Use the aging report to determine which customers are overdue and begin your collection efforts."
@@ -5362,32 +5362,32 @@ msgstr "Quando viene ricevuta una fattura fornitore, è possibile registrarla da
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:27
 msgid "To register a new vendor bill, start by selecting a vendor and inputting their invoice as the **Vendor Reference**, then add and confirm the product lines, making sure to have the right product quantities, taxes and prices."
-msgstr "Per registrare una nuova fattura fornitore, iniziare selezionando un fornitore e inserendo la fattura come **Riferimento fornitore**, quindi aggiungere e confermare le linee di prodotto, assicurandosi di disporre delle giuste quantità, tasse e prezzi del prodotto."
+msgstr "Per registrare una nuova fattura fornitore, iniziare selezionando un fornitore e inserendo la fattura come **Riferimento fornitore**, quindi aggiungere e confermare le linee di prodotto, assicurandosi di disporre delle giuste quantità, imposte e prezzi del prodotto."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:35
 msgid "Save the invoice to update the pre tax and tax amounts at the bottom of the screen. You will most likely need to configure the prices of your products without taxes as Odoo will compute the tax for you."
-msgstr "Salva la fattura per aggiornare gli importi pre-tasse e imposte nella parte inferiore dello schermo. Molto probabilmente dovrai configurare i prezzi dei tuoi prodotti senza tasse poiché Odoo calcolerà la tassa per te."
+msgstr "Salva la fattura per aggiornare gli importi pre-imposte e imposte nella parte inferiore dello schermo. Molto probabilmente dovrai configurare i prezzi dei tuoi prodotti senza imposte poiché Odoo calcolerà la tassa per te."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:40
 msgid "On the bottom left corner, Odoo shows a summary table of all taxes on the vendor bill. In several countries, different methods are accepted to round the totals (round per line, or round globally). The default rounding method in Odoo is to round the final prices per line (as you may have different taxes per product. E.g. Alcohol and cigarettes). However if your vendor has a different tax amount on their bill, you can change the amount in the bottom left table to adjust and match."
-msgstr "Nell'angolo in basso a sinistra, Odoo mostra una tabella riassuntiva di tutte le tasse sulla fattura del venditore. In diversi paesi, sono accettati diversi metodi per arrotondare i totali (arrotondamento per linea o round globalmente). Il metodo di arrotondamento predefinito in Odoo consiste nell'arrotondare i prezzi finali per riga (poiché potresti avere imposte diverse per prodotto, ad esempio alcol e sigarette). Tuttavia, se il venditore ha un importo di imposta diverso sulla fattura, è possibile modificare l'importo nella tabella in basso a sinistra per regolare e abbinare."
+msgstr "Nell'angolo in basso a sinistra, Odoo mostra una tabella riassuntiva di tutte le imposte sulla fattura del venditore. In diversi paesi, sono accettati diversi metodi per arrotondare i totali (arrotondamento per linea o round globalmente). Il metodo di arrotondamento predefinito in Odoo consiste nell'arrotondare i prezzi finali per riga (poiché potresti avere imposte diverse per prodotto, ad esempio alcol e sigarette). Tuttavia, se il venditore ha un importo di imposta diverso sulla fattura, è possibile modificare l'importo nella tabella in basso a sinistra per regolare e abbinare."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:48
 msgid "Validate The Vendor Bill"
-msgstr "Convalida il conto del venditore"
+msgstr "Convalida la fattura del venditore"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:50
 msgid "Once the vendor bill is validated, a journal entry will be generated based on the configuration on the invoice. This journal entry may differ depending on the the accounting package you choose to use."
-msgstr "Una volta convalidata la fattura del venditore, verrà generata una registrazione a giornale in base alla configurazione della fattura. Questa registrazione a giornale potrebbe differire in base al pacchetto contabile che si sceglie di utilizzare."
+msgstr "Una volta convalidata la fattura del venditore, verrà generata una registrazione sezionale in base alla configurazione della fattura. Questa registrazione sezionale potrebbe differire in base al pacchetto contabile che si sceglie di utilizzare."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:54
 msgid "For most European countries, the journal entry will use the following accounts:"
-msgstr "Per la maggior parte dei paesi europei, la voce di diario utilizzerà i seguenti account:"
+msgstr "Per la maggior parte dei paesi europei, la voce sezionale utilizzerà i seguenti account:"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:57
 #: ../../accounting/overview/process_overview/supplier_bill.rst:66
 msgid "**Accounts Payable:** defined on the vendor form"
-msgstr "**Contabilità fornitori:** definita nel modulo fornitore"
+msgstr "**Conto di debito:** definita nella cheda del fornitore"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:59
 #: ../../accounting/overview/process_overview/supplier_bill.rst:68
@@ -5396,15 +5396,15 @@ msgstr "**Imposte:** definite sui prodotti e per riga"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:61
 msgid "**Expenses:** defined on the line item product used"
-msgstr "**Spese:** definite sul prodotto dell'elemento pubblicitario utilizzato"
+msgstr "**Spese:** definite sul prodotto utilizzato"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:63
 msgid "For Anglo-Saxon (US) accounting, the journal entry will use the following accounts:"
-msgstr "Per la contabilità anglosassone (USA), la registrazione a giornale utilizzerà i seguenti account:"
+msgstr "Per la contabilità anglosassone (USA), la registrazione sezionale utilizzerà i seguenti account:"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:70
 msgid "**Goods Received:** defined on the product form"
-msgstr "**Merci ricevute:** definite nel modulo del prodotto"
+msgstr "**Merci ricevute:** definite nella scheda del prodotto"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:72
 msgid "You can check your Profit & Loss or the Balance Sheet reports after having validated a couple of vendor bills to see the impact on your general ledger."
@@ -5428,15 +5428,15 @@ msgstr "È anche possibile registrare un pagamento direttamente a un fornitore s
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:99
 msgid "Printing vendor Checks"
-msgstr "Stampa dei controlli del fornitore"
+msgstr "Stampa degli assegni per il fornitore"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:101
 msgid "If you choose to pay your vendor bills by check, Odoo offers a method to do so directly from your vendor payments within Odoo. Whether you do so on a daily basis or prefer to do so at the end of the week, you can print in checks in batches."
-msgstr "Se si sceglie di pagare le fatture del fornitore tramite assegno, Odoo offre un metodo per farlo direttamente dai pagamenti dei fornitori all'interno di Odoo. Se lo fai quotidianamente o preferisci farlo alla fine della settimana, puoi stampare in assegni in lotti."
+msgstr "Se si sceglie di pagare le fatture del fornitore tramite assegno, Odoo offre un metodo per farlo direttamente dai pagamenti dei fornitori all'interno di Odoo. Se lo fai quotidianamente o preferisci farlo alla fine della settimana, puoi stampare gli assegni in gruppi."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:106
 msgid "If you have checks to print, Odoo's accounting dashboard acts as a to do list and reminds you of how many checks you have left to be printed."
-msgstr "Se hai i controlli da stampare, la dashboard di contabilità di Odoo funge da elenco e ti ricorda quanti controlli hai lasciato per essere stampati."
+msgstr "Se hai gli assegni da stampare, la dashboard di contabilità di Odoo funge da elenco e ti ricorda quanti assegni hai lasciato per essere stampati."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:112
 msgid "By selecting the amount of checks to be printed, you can dive right into a list of all payments that are ready to be processed."
@@ -5444,15 +5444,15 @@ msgstr "Selezionando la quantità di assegni da stampare, è possibile immergers
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:115
 msgid "Select all the checks you wish to print (use the first checkbox to select them all) and set the action to **Print Checks**. Odoo will ask you to set the next check number in the sequence and will then print all the checks at once."
-msgstr "Seleziona tutti i controlli che desideri stampare (usa la prima casella per selezionarli tutti) e imposta l'azione su **Stampa assegni**. Odoo ti chiederà di impostare il prossimo numero di controllo nella sequenza e stamperà tutti gli assegni in una sola volta."
+msgstr "Seleziona tutti gli assegni che desideri stampare (usa la prima casella per selezionarli tutti) e imposta l'azione su **Stampa assegni**. Odoo ti chiederà di impostare il prossimo numero di controllo nella sequenza e stamperà tutti gli assegni in una sola volta."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:127
 msgid "Aged payable balance"
-msgstr "Saldo invecchiato"
+msgstr "Saldo debiti maturati"
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:129
 msgid "In order to get a list of open vendor bills and their related due dates, you can use the **Aged Payable** report, under the reporting menu, (in :menuselection:`Reporting --> Business Statement --> Aged payable`) to get a visual of all of your outstanding bills."
-msgstr "Per ottenere un elenco delle fatture aperte del venditore e delle relative scadenze correlate, puoi utilizzare il rapporto **Invecchiabile a pagamento**, nel menu dei rapporti, (in: menuelection: `Reporting -> Business Statement -> Aged payable `) per ottenere una visualizzazione di tutte le fatture in sospeso."
+msgstr "Per ottenere un elenco delle fatture aperte del venditore e delle relative scadenze correlate, puoi utilizzare il rapporto **Debiti maturati**, nel menu dei rapporti, (in: menuelection: `Reporting -> Business Statement -> Aged payable `) per ottenere una visualizzazione di tutte le fatture in sospeso."
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:137
 msgid "From here, you can click directly on a vendors name to open up the details of all outstanding bills and the amounts due, or you can annotate any line for managements information. At any point in time while you're looking through the report, you can print directly to Excel or PDF and get exactly what you see on the screen."
@@ -5460,7 +5460,7 @@ msgstr "Da qui, è possibile fare clic direttamente sul nome di un fornitore per
 
 #: ../../accounting/overview/process_overview/supplier_bill.rst:144
 msgid ":doc:`customer_invoice`"
-msgstr ": Doc: `customer_invoice`"
+msgstr ":doc:`customer_invoice`"
 
 #: ../../accounting/payables.rst:3
 msgid "Account Payables"
@@ -5586,7 +5586,7 @@ msgstr "il gestore approva o rifiuta la spesa"
 
 #: ../../accounting/payables/misc/employee_expense.rst:89
 msgid "the accountant post journal entries"
-msgstr "il contabile pubblica le voci del diario"
+msgstr "il contabile pubblica le registrazioni sezionale"
 
 #: ../../accounting/payables/misc/employee_expense.rst:91
 msgid "the company reimburse the employee expense (the employee is like a vendor, with a payable account)"
@@ -5618,7 +5618,7 @@ msgstr "A seconda della politica dell'azienda, potrebbe dover allegare una scans
 
 #: ../../accounting/payables/misc/employee_expense.rst:113
 msgid "If the expense is linked to a customer project, you should not forget to set an analytic account, related to the customer project or sale order (you might have to activate analytic accounts in the accounting settings to get this feature)."
-msgstr "Se la spesa è collegata a un progetto cliente, non dimenticare di impostare un account analitico, correlato al progetto cliente o all'ordine di vendita (potrebbe essere necessario attivare account analitici nelle impostazioni di contabilità per ottenere questa funzione)."
+msgstr "Se la spesa è collegata a un progetto cliente, non dimenticare di impostare un account analitico, correlato al progetto cliente o all'ordine di vendita (potrebbe essere necessario attivare Conti analitici nelle impostazioni di contabilità per ottenere questa funzione)."
 
 #: ../../accounting/payables/misc/employee_expense.rst:118
 msgid "Once the expense is fully recorded, the employee has to click the button **Submit to Manager**. In some companies, employees should submit their expenses grouped at the end of the month, or at the end of a business trip."
@@ -5658,11 +5658,11 @@ msgstr "Controllo da parte del contabile"
 
 #: ../../accounting/payables/misc/employee_expense.rst:147
 msgid "Then, all expenses that have been validated by the manager should be posted by the accountant. When an expense is posted, the related journal entry is created and posted in your accounting."
-msgstr "Quindi, tutte le spese che sono state convalidate dal gestore devono essere registrate dal contabile. Quando viene registrata una spesa, la relativa voce di diario viene creata e pubblicata nella contabilità."
+msgstr "Quindi, tutte le spese che sono state convalidate dal gestore devono essere registrate dal contabile. Quando viene registrata una spesa, la relativa voce sezionale viene creata e pubblicata nella contabilità."
 
 #: ../../accounting/payables/misc/employee_expense.rst:151
 msgid "If the accountant wants to create only one journal entry for a batch of expenses, he can post expenses in batch from the list view of all expenses."
-msgstr "Se il contabile desidera creare una sola registrazione a giornale per una serie di spese, può registrare le spese in lotti dalla visualizzazione elenco di tutte le spese."
+msgstr "Se il contabile desidera creare una sola registrazione sezionale per una serie di spese, può registrare le spese in lotti dalla visualizzazione elenco di tutte le spese."
 
 #: ../../accounting/payables/misc/employee_expense.rst:156
 msgid "Reinvoice expenses to customers"
@@ -5775,7 +5775,7 @@ msgstr "Seleziona le fatture da pagare"
 
 #: ../../accounting/payables/misc/forecast.rst:63
 msgid "Using the menu :menuselection:`Purchases --> Vendor Bills`, you can get a list of vendor bills. Using the advanced filters, you can list all the bills that you should pay or the bills that are overdue (you are late on the payment)."
-msgstr "Usando il menu: menuelezione: `Acquisti -> Fatture fornitore ', è possibile ottenere un elenco di fatture fornitore. Utilizzando i filtri avanzati, puoi elencare tutte le fatture che dovresti pagare o le bollette che sono in ritardo (sei in ritardo sul pagamento)."
+msgstr "Usando il menu: menuelezione: `Acquisti -> Fatture fornitore ', è possibile ottenere un elenco di fatture fornitore. Utilizzando i filtri avanzati, puoi elencare tutte le fatture che dovresti pagare o le fatture che sono in ritardo (sei in ritardo sul pagamento)."
 
 #: ../../accounting/payables/misc/forecast.rst:70
 msgid "From this screen, you can also switch to the pivot table or the graph view to get statistics on the amount due over the next month, using the group by \"Due Date\" feature."
@@ -5791,7 +5791,7 @@ msgstr "Paga con assegni"
 
 #: ../../accounting/payables/pay/check.rst:5
 msgid "Once you decide to pay a supplier bill, you can select to pay by check. Then, at the end of the day, the manager can print all checks by batch. Finally, the bank reconciliation process will match the checks you sent to suppliers with actual bank statements."
-msgstr "Una volta che si decide di pagare una fattura fornitore, è possibile selezionare di pagare con assegno. Quindi, alla fine della giornata, il manager può stampare tutti i controlli per gruppo. Infine, il processo di riconciliazione bancaria corrisponderà ai controlli inviati ai fornitori con estratti conto bancari effettivi."
+msgstr "Una volta che si decide di pagare una fattura fornitore, è possibile selezionare di pagare con assegno. Quindi, alla fine della giornata, il manager può stampare tutti gli assegni per gruppo. Infine, il processo di riconciliazione bancaria corrisponderà agli assegni inviati ai fornitori con estratti conto bancari effettivi."
 
 #: ../../accounting/payables/pay/check.rst:14
 #: ../../accounting/payables/pay/sepa.rst:29
@@ -5800,7 +5800,7 @@ msgstr "Installa il modulo richiesto"
 
 #: ../../accounting/payables/pay/check.rst:16
 msgid "To record supplier payments by checks, you must install the **Check Writing** module. This module handle the process of recording checks in Odoo. Others modules are necessary to print checks, according to the country. As an example, the **U.S. Check Printing** module is required to print U.S. checks."
-msgstr "Per registrare i pagamenti fornitore tramite assegni, devi installare il modulo **Verifica scrittura**. Questo modulo gestisce il processo di registrazione dei controlli in Odoo. Altri moduli sono necessari per stampare assegni, secondo il Paese. Ad esempio, è necessario il modulo **Controllo stampa USA** per stampare i controlli negli Stati Uniti."
+msgstr "Per registrare i pagamenti fornitore tramite assegni, devi installare il modulo **Verifica scrittura**. Questo modulo gestisce il processo di registrazione degli assegni in Odoo. Altri moduli sono necessari per stampare assegni, secondo il Paese. Ad esempio, è necessario il modulo **Stampa assegni USA** per stampare gli assegni negli Stati Uniti."
 
 #: ../../accounting/payables/pay/check.rst:24
 msgid "According to your country and the chart of account you use, those modules may be installed by default. (example: United States users have nothing to install, it's configured by default)."
@@ -5816,7 +5816,7 @@ msgstr "Per consentire i pagamenti tramite assegni, è necessario attivare il me
 
 #: ../../accounting/payables/pay/check.rst:41
 msgid "Compatible check stationery for printing checks"
-msgstr "Cancelleria di controllo compatibile per la stampa di assegni"
+msgstr "Cancelleria compatibile per la stampa di assegni"
 
 #: ../../accounting/payables/pay/check.rst:44
 msgid "United States"
@@ -5824,7 +5824,7 @@ msgstr "Stati Uniti"
 
 #: ../../accounting/payables/pay/check.rst:46
 msgid "For the United States, Odoo supports by default the check formats of:"
-msgstr "Per gli Stati Uniti, Odoo supporta di default i formati di controllo di:"
+msgstr "Per gli Stati Uniti, Odoo supporta di default i formati di assegni di:"
 
 #: ../../accounting/payables/pay/check.rst:48
 msgid "**Quickbooks & Quicken**: check on top, stubs in the middle and bottom"
@@ -5840,7 +5840,7 @@ msgstr "**ADP**: controlla in basso e gli stub in alto."
 
 #: ../../accounting/payables/pay/check.rst:52
 msgid "It is also possible to customize your own check format through customizations."
-msgstr "È anche possibile personalizzare il proprio formato di controllo tramite personalizzazioni."
+msgstr "È anche possibile personalizzare il proprio formato di assegni tramite personalizzazioni."
 
 #: ../../accounting/payables/pay/check.rst:55
 msgid "Pay a supplier bill with a check"
@@ -5896,7 +5896,7 @@ msgstr "Controllare: pagare il conto con assegno e stamparlo da Odoo."
 
 #: ../../accounting/payables/pay/check.rst
 msgid "Batch Deposit: Encase several customer checks at once by generating a batch deposit to submit to your bank. When encoding the bank statement in Odoo, you are suggested to reconcile the transaction with the batch deposit.To enable batch deposit,module account_batch_deposit must be installed."
-msgstr "Deposito batch: consente di eseguire più controlli cliente contemporaneamente generando un deposito batch da inviare alla banca. Quando si codifica l'estratto conto in Odoo, si suggerisce di riconciliare la transazione con il deposito batch. Per abilitare il deposito batch, deve essere installato il modulo account_batch_deposit."
+msgstr "Deposito batch: consente di racchiudere diversi assegni cliente contemporaneamente generando un deposito batch da inviare alla banca. Quando si codifica l'estratto conto in Odoo, si suggerisce di riconciliare la transazione con il deposito batch. Per abilitare il deposito batch, deve essere installato il modulo account_batch_deposit."
 
 #: ../../accounting/payables/pay/check.rst
 msgid "SEPA Credit Transfer: Pay bill from a SEPA Credit Transfer file you submit to your bank. To enable sepa credit transfer, module account_sepa must be installed"
@@ -5912,11 +5912,11 @@ msgstr "Campo tecnico utilizzato per adattare l'interfaccia al tipo di pagamento
 
 #: ../../accounting/payables/pay/check.rst
 msgid "Check Number"
-msgstr "Numero di controllo"
+msgstr "Numero di assegno"
 
 #: ../../accounting/payables/pay/check.rst
 msgid "The selected journal is configured to print check numbers. If your pre-printed check paper already has numbers or if the current numbering is wrong, you can change it in the journal configuration page."
-msgstr "Il giornale selezionato è configurato per stampare i numeri di controllo. Se la carta di controllo prestampata ha già numeri o se la numerazione corrente è errata, è possibile cambiarla nella pagina di configurazione del giornale."
+msgstr "Il giornale selezionato è configurato per stampare i numeri di assegni. Se la carta di assegni prestampata ha già numeri o se la numerazione corrente è errata, è possibile cambiarla nella pagina di configurazione del giornale."
 
 #: ../../accounting/payables/pay/check.rst:80
 msgid "Try paying a supplier bill with a check"
@@ -5928,15 +5928,15 @@ msgstr "Stampa assegni"
 
 #: ../../accounting/payables/pay/check.rst:87
 msgid "From the accounting dashboard, on your bank account, you should see a link \"X checks to print\". Click on this link and you will get the list of all checks that are not printed yet. From this screen, you can print all checks in batch or review them one by one."
-msgstr "Dalla dashboard della contabilità, sul tuo conto bancario, dovresti vedere un link \\ \"X controlla per stampare \". Clicca su questo link e otterrai l'elenco di tutti gli assegni che non sono ancora stati stampati. Da questa schermata è possibile stampare tutti i controlli in batch o rivederli uno per uno."
+msgstr "Dalla dashboard della contabilità, sul tuo conto bancario, dovresti vedere un link \\ \"X controlla per stampare \". Clicca su questo link e otterrai l'elenco di tutti gli assegni che non sono ancora stati stampati. Da questa schermata è possibile stampare tutti gli assegni in batch o rivederli uno per uno."
 
 #: ../../accounting/payables/pay/check.rst:92
 msgid "If you want to review every payment one by one before printing the check, open on the payment and click on **Print Check** if you accept it. A dialog will ask you the number of the check. It automatically proposes you the next number, but you can change it if it does not match your next check number."
-msgstr "Se si desidera rivedere ogni pagamento uno per uno prima di stampare il controllo, aprire il pagamento e fare clic su **Verifica stampa** se lo si accetta. Una finestra di dialogo ti chiederà il numero del controllo. Ti propone automaticamente il prossimo numero, ma puoi cambiarlo se non corrisponde al tuo prossimo numero di assegno."
+msgstr "Se si desidera rivedere ogni pagamento uno per uno prima di stampare l'assegno, aprire il pagamento e fare clic su **Verifica stampa** se lo si accetta. Una finestra di dialogo ti chiederà il numero dell'assegno. Ti propone automaticamente il prossimo numero, ma puoi cambiarlo se non corrisponde al tuo prossimo numero di assegno."
 
 #: ../../accounting/payables/pay/check.rst:98
 msgid "To print all checks in batch, select all payments from the list view and Print Check from the top \"print\" menu."
-msgstr "Per stampare tutti i controlli in batch, selezionare tutti i pagamenti dalla visualizzazione elenco e Verifica stampa dal menu \\ \"stampa \" in alto."
+msgstr "Per stampare tutti gli assegni in batch, selezionare tutti i pagamenti dalla visualizzazione elenco e Verifica stampa dal menu \\ \"stampa \" in alto."
 
 #: ../../accounting/payables/pay/check.rst:107
 msgid "Reconcile Bank Statements"
@@ -5964,7 +5964,7 @@ msgstr "Se si paga una fattura fornitore specifica, inserire il riferimento dell
 
 #: ../../accounting/payables/pay/check.rst:132
 msgid "Once your payment by check is registered, don't forget to **Confirm** it. Once confirmed, you can use **Print Check** directly or follow the preceding flow to print checks in batch:"
-msgstr "Una volta registrato il pagamento tramite assegno, non dimenticare di **Confermare**. Una volta confermato, è possibile utilizzare **Print Check** direttamente o seguire il flusso precedente per stampare i controlli in batch:"
+msgstr "Una volta registrato il pagamento tramite assegno, non dimenticare di **Confermare**. Una volta confermato, è possibile utilizzare **Print Check** direttamente o seguire il flusso precedente per stampare gli assegni in batch:"
 
 #: ../../accounting/payables/pay/check.rst:136
 msgid "`Print checks <PrintChecks_>`_"
@@ -6072,7 +6072,7 @@ msgstr "Come pagare più fatture fornitore con sconti in contanti in una sola vo
 
 #: ../../accounting/payables/pay/multiple.rst:111
 msgid "You already learned how to pay bills in various way but what about partial payment? We are taking another example where we will do partial payment for various bills."
-msgstr "Hai già imparato a pagare le bollette in vari modi, ma per quanto riguarda il pagamento parziale? Stiamo prendendo un altro esempio in cui faremo il pagamento parziale per varie fatture."
+msgstr "Hai già imparato a pagare le fatture in vari modi, ma per quanto riguarda il pagamento parziale? Stiamo prendendo un altro esempio in cui faremo il pagamento parziale per varie fatture."
 
 #: ../../accounting/payables/pay/multiple.rst:115
 msgid "We are creating multiple bills and partially pay them through bank statements."
@@ -6212,7 +6212,7 @@ msgstr "Per inviare un pagamento SEPA, il destinatario deve essere identificato 
 #: ../../accounting/receivables/customer_payments/followup.rst:168
 #: ../../accounting/receivables/customer_payments/recording.rst:129
 msgid ":doc:`check`"
-msgstr ": Doc: `controllo d'"
+msgstr ":doc:`check`"
 
 #: ../../accounting/payables/supplier_bills.rst:3
 msgid "Supplier Bills"
@@ -6464,7 +6464,7 @@ msgstr "Per impostazione predefinita, i servizi vengono gestiti in base alle qua
 
 #: ../../accounting/payables/supplier_bills/manage.rst:205
 msgid "If you need to manage products based on ordered quantities over received quantities, you will need to belong to the group **Purchase Manager**. Ask your system administrator to enable these access on :menuselection:`Settings --> Users --> Users --> Access Rights`. Once you belong to the correct group, select the product(s) you wish to modify, and you should see a new field appear, labeled **Control Purchase Bills**."
-msgstr "Se è necessario gestire i prodotti in base alle quantità ordinate rispetto alle quantità ricevute, sarà necessario appartenere al gruppo **Gestore acquisti**. Chiedi all'amministratore di sistema di abilitare questi accessi su: menuelezione: `Impostazioni -> Utenti -> Utenti -> Diritti di accesso`. Una volta che si appartiene al gruppo corretto, selezionare il prodotto (i) che si desidera modificare e si dovrebbe vedere apparire un nuovo campo, etichettato **Controllare le bollette d'acquisto**."
+msgstr "Se è necessario gestire i prodotti in base alle quantità ordinate rispetto alle quantità ricevute, sarà necessario appartenere al gruppo **Gestore acquisti**. Chiedi all'amministratore di sistema di abilitare questi accessi su: menuelezione: `Impostazioni -> Utenti -> Utenti -> Diritti di accesso`. Una volta che si appartiene al gruppo corretto, selezionare il prodotto (i) che si desidera modificare e si dovrebbe vedere apparire un nuovo campo, etichettato **Controllare le fatture d'acquisto**."
 
 #: ../../accounting/payables/supplier_bills/manage.rst:215
 msgid "You can then change the default management method for the selected product to be based on either:"
@@ -6484,7 +6484,7 @@ msgstr "Fatturazione in lotti"
 
 #: ../../accounting/payables/supplier_bills/manage.rst:225
 msgid "When creating a vendor bill and selecting the appropriate purchase order, you may continue to select additional purchase orders and Odoo will add the additional line items from that purchase order.. If you have not deleted the previous line items from the first purchase order the bill will be linked to all the appropriate purchase orders."
-msgstr "Quando si crea una fattura fornitore e si seleziona l'ordine di acquisto appropriato, è possibile continuare a selezionare ulteriori ordini di acquisto e Odoo aggiungerà gli elementi pubblicitari aggiuntivi da tale ordine di acquisto. Se non sono stati eliminati gli elementi pubblicitari precedenti dal primo ordine di acquisto, la fattura sarà collegato a tutti gli ordini di acquisto appropriati."
+msgstr "Quando si crea una fattura fornitore e si seleziona l'ordine di acquisto appropriato, è possibile continuare a selezionare ulteriori ordini di acquisto e Odoo aggiungerà gli elementi aggiuntivi da tale ordine di acquisto. Se non sono stati eliminati gli elementi precedenti dal primo ordine di acquisto, la fattura sarà collegato a tutti gli ordini di acquisto appropriati."
 
 #: ../../accounting/receivables.rst:3
 msgid "Account Receivables"
@@ -6540,7 +6540,7 @@ msgstr "Modello di riconciliazione bancaria"
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:45
 msgid "In order to speed up the bank reconciliation process, we can create a model of entry for all cash discounts. To do that, from the Accounting application dashboard, click on the \"More\" link on the bank and choose the option \"Reconciliation Models\"."
-msgstr "Al fine di accelerare il processo di riconciliazione bancaria, possiamo creare un modello di iscrizione per tutti gli sconti di cassa. Per fare ciò, dal dashboard dell'applicazione di contabilità, fare clic sul collegamento \\ \"Altro \" sulla banca e selezionare l'opzione \\ \"Modelli di riconciliazione \"."
+msgstr "Al fine di accelerare il processo di riconciliazione bancaria, possiamo creare un modello di iscrizione per tutti gli sconti di cassa. Per fare ciò, dal dashboard dell'applicazione di contabilità, fare clic sul collegamento \"Altro\" sulla banca e selezionare l'opzione \"Modelli di riconciliazione\"."
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:53
 msgid "Create a new model for cash discounts as follow:"
@@ -6568,7 +6568,7 @@ msgstr "**Imposte**: a seconda del Paese, è possibile mettere una tassa sul den
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:60
 msgid "discount if taxes have to be deduced"
-msgstr "sconto se le tasse devono essere dedotte"
+msgstr "sconto se le imposte devono essere dedotte"
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:67
 #, python-format
@@ -6581,11 +6581,11 @@ msgstr "Creazione di una fattura con uno sconto di cassa"
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:75
 msgid "When you create a customer invoice, set the right payment term \"30 days, 2% cash discount\" right after having selected the customer."
-msgstr "Quando crei una fattura cliente, imposta il termine di pagamento corretto \"30 giorni, 2% sconto di cassa \" subito dopo aver selezionato il cliente."
+msgstr "Quando crei una fattura cliente, imposta il termine di pagamento corretto \"30 giorni, 2% sconto di cassa\" subito dopo aver selezionato il cliente."
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:81
 msgid "Once the invoice is validated, Odoo will automatically split the account receivable part of the journal entry with two installments having a different due date: 98% within 5 days, 2% within 30 days."
-msgstr "Una volta che la fattura è stata convalidata, Odoo dividerà automaticamente la parte della voce di registrazione del diario con due rate con una data di scadenza diversa: il 98% entro 5 giorni, il 2% entro 30 giorni."
+msgstr "Una volta che la fattura è stata convalidata, Odoo dividerà automaticamente la parte della voce di registrazione sezionale con due rate con una data di scadenza diversa: il 98% entro 5 giorni, il 2% entro 30 giorni."
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:92
 msgid "Paying the invoice with a cash discount"
@@ -6593,12 +6593,12 @@ msgstr "Pagamento della fattura con uno sconto di cassa"
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:94
 msgid "If the customer pays with a cash discount, when processing the bank statement, you will match the payment (98%) with the related line in the journal entry."
-msgstr "Se il cliente paga con uno sconto di cassa, durante l'elaborazione dell'estratto conto bancario, corrisponderà il pagamento (98%) con la riga relativa nella registrazione a giornale."
+msgstr "Se il cliente paga con uno sconto di cassa, durante l'elaborazione dell'estratto conto bancario, corrisponderà il pagamento (98%) con la riga relativa nella registrazione sezionale."
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:101
 #, python-format
 msgid "As you can see in the above screenshot, when selecting the customer, you also see the 2% remaining of 3$. If you want to accept the cash discount (if the customer paid within the 5 days), you can click on this line with 2%, click on \"Open Balance\", and select your \"Cash Discount\" reconciliation model. That way, the invoice is marked as fully paid."
-msgstr "Come puoi vedere nello screenshot qui sopra, quando selezioni il cliente, vedi anche il 2% rimanente di 3 $. Se si desidera accettare lo sconto di cassa (se il cliente ha pagato entro 5 giorni), è possibile fare clic su questa riga con il 2%, fare clic su \\ \"Saldo aperto \" e selezionare il modello di riconciliazione \\ \"Sconto in contanti \". In questo modo, la fattura è contrassegnata come interamente pagata."
+msgstr "Come puoi vedere nello screenshot qui sopra, quando selezioni il cliente, vedi anche il 2% rimanente di 3 $. Se si desidera accettare lo sconto di cassa (se il cliente ha pagato entro 5 giorni), è possibile fare clic su questa riga con il 2%, fare clic su \"Saldo aperto\" e selezionare il modello di riconciliazione \"Sconto in contanti\". In questo modo, la fattura è contrassegnata come interamente pagata."
 
 #: ../../accounting/receivables/customer_invoices/cash_discounts.rst:109
 #, python-format
@@ -6645,7 +6645,7 @@ msgstr "Per automatizzare le entrate posticipate, vai al menu delle impostazioni
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:36
 msgid "In some version of Odoo 9, besides checking this option, you need to install the \"Revenue Recognition Management\" module. If you are using Odoo 9, you might check if the module is correctly installed."
-msgstr "In alcune versioni di Odoo 9, oltre a controllare questa opzione, è necessario installare il modulo \\ \"Revenue Recognition Management \". Se si utilizza Odoo 9, è possibile verificare se il modulo è stato installato correttamente."
+msgstr "In alcune versioni di Odoo 9, oltre a controllare questa opzione, è necessario installare il modulo \"Revenue Recognition Management\". Se si utilizza Odoo 9, è possibile verificare se il modulo è stato installato correttamente."
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:41
 msgid "Define deferred revenue types"
@@ -6715,7 +6715,7 @@ msgstr "Vendi e fattura prodotti"
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:81
 msgid "Once the products are configured, you can create a customer invoice using this product. Once the customer invoice is validated, Odoo will automatically create a deferred revenue for you, and the related journal entry."
-msgstr "Una volta configurati i prodotti, è possibile creare una fattura cliente utilizzando questo prodotto. Una volta che la fattura del cliente è stata convalidata, Odoo creerà automaticamente entrate differite per te e la relativa voce di diario."
+msgstr "Una volta configurati i prodotti, è possibile creare una fattura cliente utilizzando questo prodotto. Una volta che la fattura del cliente è stata convalidata, Odoo creerà automaticamente entrate differite per te e la relativa voce sezionale."
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:87
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:98
@@ -6729,7 +6729,7 @@ msgstr "** ** Cr"
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:89
 msgid "Accounts receivable"
-msgstr "fatture?"
+msgstr "Crediti"
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:89
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:91
@@ -6743,7 +6743,7 @@ msgstr "Conto delle entrate differite"
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:94
 msgid "Then, every month, Odoo will post a journal entry for the revenue recognition."
-msgstr "Quindi, ogni mese, Odoo pubblicherà una voce di diario per il riconoscimento delle entrate."
+msgstr "Quindi, ogni mese, Odoo pubblicherà una voce sezionale per il riconoscimento delle entrate."
 
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:100
 #: ../../accounting/receivables/customer_invoices/deferred_revenues.rst:102
@@ -6821,7 +6821,7 @@ msgstr "**una fattura**: il termine di pagamento verrà applicato solo su questa
 
 #: ../../accounting/receivables/customer_invoices/installment_plans.rst:53
 msgid "If an invoice contains a payment term, the journal entry related to the invoice is different. Without payment term, an invoice of $100 will produce the following journal entry (for the clarity of the example, we did not set any tax on the invoice):"
-msgstr "Se una fattura contiene un termine di pagamento, la registrazione a giornale relativa alla fattura è diversa. Senza termini di pagamento, una fattura di $ 100 produrrà la seguente registrazione di giornale (per la chiarezza dell'esempio, non abbiamo impostato alcuna imposta sulla fattura):"
+msgstr "Se una fattura contiene un termine di pagamento, la registrazione sezionale relativa alla fattura è diversa. Senza termini di pagamento, una fattura di $ 100 produrrà la seguente registrazione di giornale (per la chiarezza dell'esempio, non abbiamo impostato alcuna imposta sulla fattura):"
 
 #: ../../accounting/receivables/customer_invoices/installment_plans.rst:59
 #: ../../accounting/receivables/customer_invoices/installment_plans.rst:71
@@ -6833,7 +6833,7 @@ msgstr "Scadenza"
 #: ../../accounting/receivables/customer_invoices/installment_plans.rst:66
 #: ../../accounting/receivables/customer_invoices/payment_terms.rst:65
 msgid "If you do an invoice the 1st of January with a payment term of 10% within 3 days and the balance within 30 days, you get the following journal entry:"
-msgstr "Se si fa una fattura il 1 ° gennaio con un termine di pagamento del 10% entro 3 giorni e il saldo entro 30 giorni, si ottiene la seguente annotazione:"
+msgstr "Se si fa una fattura il 1 ° gennaio con un termine di pagamento del 10% entro 3 giorni e il saldo entro 30 giorni, si ottiene la seguente Registrazione sezionale:"
 
 #: ../../accounting/receivables/customer_invoices/installment_plans.rst:73
 #: ../../accounting/receivables/customer_invoices/payment_terms.rst:72
@@ -6917,7 +6917,7 @@ msgstr "Tutti questi passaggi sono automatizzati da Odoo. Tutto quello che devi 
 
 #: ../../accounting/receivables/customer_invoices/modify_validated.rst:36
 msgid "In the refund dialog, select the option \"Modify: create a refund, reconcile and create a draft invoice\". Once you click on the \"Create Refund\" button, Odoo will void your existing invoice and create a new draft invoice that is a duplicate of the original one."
-msgstr "Nella finestra di dialogo del rimborso, seleziona l'opzione \\ \"Modifica: crea un rimborso, riconcilia e crea una bozza di fattura \". Dopo aver fatto clic sul pulsante \\ \"Crea rimborso \", Odoo annullerà la fattura esistente e creerà una nuova bozza di fattura che è una copia di quella originale."
+msgstr "Nella finestra di dialogo del rimborso, seleziona l'opzione \"Modifica: crea un rimborso, riconcilia e crea una bozza di fattura \". Dopo aver fatto clic sul pulsante \"Crea rimborso \", Odoo annullerà la fattura esistente e creerà una nuova bozza di fattura che è una copia di quella originale."
 
 #: ../../accounting/receivables/customer_invoices/modify_validated.rst:41
 msgid "Edit this new draft invoice and validate it when it's correct."
@@ -7126,7 +7126,7 @@ msgstr "**una fattura**: per applicare il termine di pagamento solo su questa fa
 
 #: ../../accounting/receivables/customer_invoices/payment_terms.rst:53
 msgid "If an invoice has a payment term, the journal entry related to the invoice is different. Without payment term or tax, an invoice of $100 will produce this journal entry:"
-msgstr "Se una fattura ha un termine di pagamento, la registrazione a giornale relativa alla fattura è diversa. Senza termini di pagamento o tasse, una fattura di $ 100 produrrà questa registrazione a giornale:"
+msgstr "Se una fattura ha un termine di pagamento, la registrazione sezionale relativa alla fattura è diversa. Senza termini di pagamento o imposte, una fattura di $ 100 produrrà questa registrazione sezionale:"
 
 #: ../../accounting/receivables/customer_invoices/payment_terms.rst:79
 msgid "In the customer statement, you will see two lines with different due dates."
@@ -7162,7 +7162,7 @@ msgstr "Modifica di una fattura convalidata"
 
 #: ../../accounting/receivables/customer_invoices/refund.rst:12
 msgid "If you need to modify an existing invoice, use the Refund Invoice button on the invoice. In the refund method field, select \"Modify: create a refund, reconcile, and create a new draft invoice\"."
-msgstr "Se è necessario modificare una fattura esistente, utilizzare il pulsante Fattura rimborso sulla fattura. Nel campo Metodo di rimborso, seleziona \\ \"Modifica: crea un rimborso, riconcilia e crea una nuova bozza di fattura \"."
+msgstr "Se è necessario modificare una fattura esistente, utilizzare il pulsante Fattura rimborso sulla fattura. Nel campo Metodo di rimborso, seleziona \"Modifica: crea un rimborso, riconcilia e crea una nuova bozza di fattura \"."
 
 #: ../../accounting/receivables/customer_invoices/refund.rst:19
 #: ../../accounting/receivables/customer_invoices/refund.rst:37
@@ -7193,7 +7193,7 @@ msgstr "Annullamento di una fattura"
 
 #: ../../accounting/receivables/customer_invoices/refund.rst:30
 msgid "If you need to cancel an existing invoice, use the Refund Invoice button on the invoice. In the refund method field, select \"Cancel: create a refund and reconcile\"."
-msgstr "Se è necessario annullare una fattura esistente, utilizzare il pulsante Fattura rimborso sulla fattura. Nel campo Metodo di rimborso, seleziona \\ \"Annulla: crea un rimborso e riconcilia \"."
+msgstr "Se è necessario annullare una fattura esistente, utilizzare il pulsante Fattura rimborso sulla fattura. Nel campo Metodo di rimborso, seleziona \"Annulla: crea un rimborso e riconcilia \"."
 
 #: ../../accounting/receivables/customer_invoices/refund.rst:42
 msgid "Nothing else needs to be done. You can send the refund by regular mail or email to your customer, if you already sent the original invoice."
@@ -7205,7 +7205,7 @@ msgstr "Rimborso di una parte della fattura"
 
 #: ../../accounting/receivables/customer_invoices/refund.rst:48
 msgid "If you need to refund an existing invoice partially, use the Refund Invoice button on the invoice. In the refund method field, select \"Create a draft refund\"."
-msgstr "Se è necessario rimborsare parzialmente una fattura esistente, utilizzare il pulsante Fattura rimborso sulla fattura. Nel campo del metodo di rimborso, seleziona \\ \"Crea una bozza di rimborso \"."
+msgstr "Se è necessario rimborsare parzialmente una fattura esistente, utilizzare il pulsante Fattura rimborso sulla fattura. Nel campo del metodo di rimborso, seleziona \"Crea una bozza di rimborso \"."
 
 #: ../../accounting/receivables/customer_invoices/refund.rst:55
 msgid "Odoo will automatically create a draft refund. You may modify the refund (example: remove the lines you do not want to refund) and validate it. Then, send the refund by regular mail or email to your customer."
@@ -7229,11 +7229,11 @@ msgstr "Esistono due modi per gestire i pagamenti ricevuti tramite assegni. Odoo
 
 #: ../../accounting/receivables/customer_payments/check.rst:9
 msgid "**Undeposited Funds:** once you receive the check, you record a payment by check on the invoice. (using a Check journal and posted on the Undeposited Fund account) Then, once the check arrives in your bank account, move money from Undeposited Funds to your bank account."
-msgstr "**Fondi non protetti:** una volta ricevuto l'assegno, si registra un pagamento tramite assegno sulla fattura. (utilizzando un diario di controllo e pubblicato sull'account del fondo non coperto) Quindi, una volta che l'assegno arriva nel proprio conto bancario, trasferire denaro da fondi non protetti sul proprio conto bancario."
+msgstr "**Fondi non protetti:** una volta ricevuto l'assegno, si registra un pagamento tramite assegno sulla fattura. (utilizzando un sezionale assegni e pubblicato sul conto del fondo non coperto) Quindi, una volta che l'assegno arriva nel proprio conto bancario, trasferire denaro da fondi non protetti sul proprio conto bancario."
 
 #: ../../accounting/receivables/customer_payments/check.rst:16
 msgid "**One journal entry only:** once your receive the check, you record a payment on your bank, paid by check, without going through the **Undeposited Funds**. Once you process your bank statement, you do the matching with your bank feed and the check payment, without creating a dedicated journal entry."
-msgstr "** Solo una registrazione a giornale: **una volta ricevuto l'assegno, si registra un pagamento sulla propria banca, pagato tramite assegno, senza passare attraverso i**fondi non richiesti**. Una volta elaborato il tuo estratto conto, esegui l'abbinamento con il tuo feed bancario e il pagamento dell'assegno, senza creare una registrazione a giornale dedicata."
+msgstr "**Solo una registrazione sezionale:** una volta ricevuto l'assegno, si registra un pagamento sulla propria banca, pagato tramite assegno, senza passare attraverso i **fondi non richiesti**. Una volta elaborato il tuo estratto conto, esegui l'abbinamento con il tuo feed bancario e il pagamento dell'assegno, senza creare una registrazione sezionale dedicata."
 
 #: ../../accounting/receivables/customer_payments/check.rst:23
 msgid "We recommend the first approach as it is more accurate (your bank account balance is accurate, taking into accounts checks that have not been cashed yet). Both approaches require the same effort."
@@ -7254,7 +7254,7 @@ msgstr "Opzione 1: fondi non protetti"
 
 #: ../../accounting/receivables/customer_payments/check.rst:41
 msgid "Create a journal **Checks**"
-msgstr "Crea un diario **controlli**"
+msgstr "Crea un sezionale **Assegni**"
 
 #: ../../accounting/receivables/customer_payments/check.rst:43
 msgid "Set **Undeposited Checks** as a defaut credit/debit account"
@@ -7271,7 +7271,7 @@ msgstr "Dai pagamenti con assegno agli estratti conto bancari"
 
 #: ../../accounting/receivables/customer_payments/check.rst:50
 msgid "The first way to handle checks is to create a check journal. Thus, checks become a payment method in itself and you will record two transactions."
-msgstr "Il primo modo per gestire i controlli è creare un diario di controllo. Pertanto, i controlli diventano di per sé un metodo di pagamento e registrerete due transazioni."
+msgstr "Il primo modo per gestire gli assegni è creare un sezionale per gli assegni. Pertanto, gli assegni diventano di per sé un metodo di pagamento e registrerete due transazioni."
 
 #: ../../accounting/receivables/customer_payments/check.rst:54
 #: ../../accounting/receivables/customer_payments/check.rst:111
@@ -7280,7 +7280,7 @@ msgstr "Una volta ricevuto un assegno cliente, vai alla relativa fattura e fai c
 
 #: ../../accounting/receivables/customer_payments/check.rst:57
 msgid "Payment method: Check Journal (that you configured with the debit and credit default accounts as **Undeposited Funds**)"
-msgstr "Metodo di pagamento: Diario di controllo (configurato con i conti di debito e di credito predefiniti come **Fondi non protetti**)"
+msgstr "Metodo di pagamento: Sezionale assegni (configurato con i conti di debito e di credito predefiniti come **Fondi non protetti**)"
 
 #: ../../accounting/receivables/customer_payments/check.rst:60
 msgid "Memo: write the Check number"
@@ -7289,7 +7289,7 @@ msgstr "Memo: scrivi il numero di Verifica"
 #: ../../accounting/receivables/customer_payments/check.rst:65
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:74
 msgid "This operation will produce the following journal entry:"
-msgstr "Questa operazione produrrà la seguente annotazione:"
+msgstr "Questa operazione produrrà la seguente Registrazione sezionale:"
 
 #: ../../accounting/receivables/customer_payments/check.rst:68
 #: ../../accounting/receivables/customer_payments/check.rst:81
@@ -7338,7 +7338,7 @@ msgstr "X"
 
 #: ../../accounting/receivables/customer_payments/check.rst:89
 msgid "If you use this approach to manage received checks, you get the list of checks that have not been cashed in the **Undeposit Funds** account (accessible, for example, from the general ledger)."
-msgstr "Se si utilizza questo approccio per gestire i controlli ricevuti, si ottiene l'elenco degli assegni che non sono stati incassati nell'account **Undeposit Funds** (accessibile, ad esempio, dalla contabilità generale)."
+msgstr "Se si utilizza questo approccio per gestire gli assegni ricevuti, si ottiene l'elenco degli assegni che non sono stati incassati nell'account **Undeposit Funds** (accessibile, ad esempio, dalla contabilità generale)."
 
 #: ../../accounting/receivables/customer_payments/check.rst:94
 msgid "Both methods will produce the same data in your accounting at the end of the process. But, if you have checks that have not been cashed, this one is cleaner because those checks have not been reported yet on your bank account."
@@ -7347,7 +7347,7 @@ msgstr "Entrambi i metodi produrranno gli stessi dati nella contabilità alla fi
 #: ../../accounting/receivables/customer_payments/check.rst:100
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:110
 msgid "Option 2: One journal entry only"
-msgstr "Opzione 2: solo una registrazione a giornale"
+msgstr "Opzione 2: solo una registrazione sezionale"
 
 #: ../../accounting/receivables/customer_payments/check.rst:105
 msgid "These is nothing to configure if you plan to manage your checks using this method."
@@ -7359,7 +7359,7 @@ msgstr "**Metodo di pagamento:** la banca che verrà utilizzata per il deposito"
 
 #: ../../accounting/receivables/customer_payments/check.rst:116
 msgid "Memo: write the check number"
-msgstr "Memo: scrivi il numero di controllo"
+msgstr "Memo: scrivi il numero di assegno"
 
 #: ../../accounting/receivables/customer_payments/check.rst:123
 msgid "Once you will receive the bank statements, you will do the matching with the statement and this actual payment. (technically: point this payment and relate it to the statement line)"
@@ -7368,15 +7368,15 @@ msgstr "Una volta ricevuti gli estratti conto bancari, eseguirai l'abbinamento c
 #: ../../accounting/receivables/customer_payments/check.rst:127
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:137
 msgid "With this approach, you will get the following journal entry in your books:"
-msgstr "Con questo approccio, otterrai la seguente voce di diario nei tuoi libri:"
+msgstr "Con questo approccio, otterrai la seguente voce di sezionale nei tuoi libri:"
 
 #: ../../accounting/receivables/customer_payments/check.rst:139
 msgid "You may also record the payment directly without going on the customer invoice, using the menu :menuselection:`Sales --> Payments`. This method may be more convenient if you have a lot of checks to record in a batch but you will have to reconcile entries afterwards (matching payments with invoices)"
-msgstr "È inoltre possibile registrare il pagamento direttamente senza procedere con la fattura del cliente, utilizzando il menu: menu selection: `Vendite -> Pagamenti». Questo metodo può essere più comodo se si hanno molti controlli da registrare in un batch ma occorrerà riconciliare le voci in seguito (corrispondenti pagamenti con fatture)"
+msgstr "È inoltre possibile registrare il pagamento direttamente senza procedere con la fattura del cliente, utilizzando il menu: menu selection: `Vendite -> Pagamenti». Questo metodo può essere più comodo se si hanno molti assegni da registrare in un batch ma occorrerà riconciliare le voci in seguito (corrispondenti pagamenti con fatture)"
 
 #: ../../accounting/receivables/customer_payments/check.rst:145
 msgid "If you use this approach to manage received checks, you can use the report **Bank Reconciliation Report** to verify which checks have been received or paid by the bank. (this report is available from the **More** option from the Accounting dashboard on the related bank account)."
-msgstr "Se si utilizza questo approccio per gestire i controlli ricevuti, è possibile utilizzare il report **Rapporto di riconciliazione bancaria** per verificare quali assegni sono stati ricevuti o pagati dalla banca. (questo rapporto è disponibile dall'opzione **Altro** dal pannello di controllo Accounting sul relativo conto bancario)."
+msgstr "Se si utilizza questo approccio per gestire gli assegni ricevuti, è possibile utilizzare il report **Rapporto di riconciliazione bancaria** per verificare quali assegni sono stati ricevuti o pagati dalla banca. (questo rapporto è disponibile dall'opzione **Altro** dal pannello di controllo Accounting sul relativo conto bancario)."
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:3
 msgid "How to register credit card payments on invoices?"
@@ -7392,7 +7392,7 @@ msgstr "**Fondi non protetti** (utilizzati principalmente nei paesi europei): un
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:16
 msgid "**One journal entry only** (mostly used in the U.S.): once your receive the credit card payment, you record a payment on your bank, paid by credit card, without going through the Undeposited Funds. Once you process your bank statement, you do the matching with your bank feed and the credit card payment, without creating a dedicated journal entry ."
-msgstr "**Solo una registrazione a giornale** (utilizzata principalmente negli Stati Uniti): una volta ricevuto il pagamento con carta di credito, si registra un pagamento sulla propria banca, pagato con carta di credito, senza passare attraverso i fondi non protetti. Una volta elaborato il tuo estratto conto, esegui l'abbinamento con il tuo feed bancario e il pagamento con carta di credito, senza creare una registrazione a giornale dedicata."
+msgstr "**Solo una registrazione sezionale** (utilizzata principalmente negli Stati Uniti): una volta ricevuto il pagamento con carta di credito, si registra un pagamento sulla propria banca, pagato con carta di credito, senza passare attraverso i fondi non protetti. Una volta elaborato il tuo estratto conto, esegui l'abbinamento con il tuo feed bancario e il pagamento con carta di credito, senza creare una registrazione sezionale dedicata."
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:23
 msgid "We recommend the first approach as it is more accurate (your bank account balance is accurate, taking into accounts credit cards that have not been cashed yet). Both approaches require the same effort."
@@ -7412,7 +7412,7 @@ msgstr "Sul modulo Contabilità, vai a: menuelezione: `Configurazione -> Riviste
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:44
 msgid "Create a Journal called 'Credit card payments' with the following data:"
-msgstr "Crea un diario chiamato \"pagamenti con carta di credito\" con i seguenti dati:"
+msgstr "Crea un sezionale chiamato 'pagamenti con carta di credito' con i seguenti dati:"
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:46
 msgid "**Journal Name**: Credit card"
@@ -7428,7 +7428,7 @@ msgstr "**Conto di accredito predefinito**: carte di credito"
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:50
 msgid "The account type should be \"Credit Card\". Once it's done, don't forget to set the \"Credit cards\" account as \"Allow Reconciliation\"."
-msgstr "Il tipo di account deve essere \\ \"Carta di credito \". Una volta fatto, non dimenticare di impostare l'account \\ \"Carte di credito \" come \\ \"Consenti riconciliazione \"."
+msgstr "Il tipo di account deve essere \"Carta di credito \". Una volta fatto, non dimenticare di impostare l'account \"Carte di credito \" come \"Consenti riconciliazione \"."
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:57
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:119
@@ -7498,7 +7498,7 @@ msgstr "Puoi anche registrare il pagamento direttamente senza andare sulla fattu
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:155
 msgid "If you use this approach to manage received credit cards, you can use the report \"Bank Reconciliation Report\" to verify which credit cards have been received or paid by the bank (this report is available from the \"More\" option from the Accounting dashboard on the related bank account)."
-msgstr "Se si utilizza questo approccio per gestire le carte di credito ricevute, è possibile utilizzare il rapporto \\ \"Rapporto di riconciliazione bancaria \" per verificare quali carte di credito sono state ricevute o pagate dalla banca (questo rapporto è disponibile dall'opzione \\ \"Altro \" da il pannello di controllo sul conto bancario correlato)."
+msgstr "Se si utilizza questo approccio per gestire le carte di credito ricevute, è possibile utilizzare il rapporto \"Rapporto di riconciliazione bancaria \" per verificare quali carte di credito sono state ricevute o pagate dalla banca (questo rapporto è disponibile dall'opzione \"Altro\" da il pannello di controllo sul conto bancario correlato)."
 
 #: ../../accounting/receivables/customer_payments/credit_cards.rst:166
 #: ../../accounting/receivables/customer_payments/followup.rst:167
@@ -7625,7 +7625,7 @@ msgstr "Clienti da cui non hai ancora ricevuto un pagamento"
 
 #: ../../accounting/receivables/customer_payments/followup.rst:113
 msgid "Customers that have not been reminded over the last X days (\"X\" being defined as the overdue date of the invoice after the first reminder, then the next action date set at every reminder)"
-msgstr "Clienti che non sono stati richiamati negli ultimi X giorni (\\ \"X \" viene definito come la data scaduta della fattura dopo il primo sollecito, quindi la prossima data dell'azione impostata ad ogni promemoria)"
+msgstr "Clienti che non sono stati richiamati negli ultimi X giorni (\"X \" viene definito come la data scaduta della fattura dopo il primo sollecito, quindi la prossima data dell'azione impostata ad ogni promemoria)"
 
 #: ../../accounting/receivables/customer_payments/followup.rst:118
 msgid "Setting up your dunning process"
@@ -7661,7 +7661,7 @@ msgstr "Grazie a questo modulo, è possibile inviare ogni e-mail e lettere in lo
 
 #: ../../accounting/receivables/customer_payments/followup.rst:142
 msgid "The module will also add a red/green dot on each customer, this will allow you to easily mark customer status's with the following options: \"Good Debtor, Normal Debtor, or bad debtors."
-msgstr "Il modulo aggiungerà anche un punto rosso / verde a ciascun cliente, ciò consentirà di contrassegnare facilmente lo stato del cliente con le seguenti opzioni: \\ \"Debitore buono, Debitore normale o cattivo debitore."
+msgstr "Il modulo aggiungerà anche un punto rosso / verde a ciascun cliente, ciò consentirà di contrassegnare facilmente lo stato del cliente con le seguenti opzioni: \"Debitore buono, Debitore normale o cattivo debitore."
 
 #: ../../accounting/receivables/customer_payments/followup.rst:150
 msgid "DSO: Measuring your performance"
@@ -7701,11 +7701,11 @@ msgstr "Se si registra un pagamento su una fattura cliente o una fattura fornito
 
 #: ../../accounting/receivables/customer_payments/recording.rst:27
 msgid "The green icon near the payment line will display more information about the payment. From there you can choose to open the journal entry or reconcile the payment."
-msgstr "L'icona verde vicino alla linea di pagamento mostrerà più informazioni sul pagamento. Da lì puoi scegliere di aprire la registrazione a giornale o riconciliare il pagamento."
+msgstr "L'icona verde vicino alla linea di pagamento mostrerà più informazioni sul pagamento. Da lì puoi scegliere di aprire la registrazione sezionale o riconciliare il pagamento."
 
 #: ../../accounting/receivables/customer_payments/recording.rst:33
 msgid "If you unreconcile a payment, it is still registered in your books but not linked to the specific invoice any longer. If you unreconcile a payment in a different currency, Odoo will create a journal entry to reverse the Currency Exchange Loss/Gain posted at the time of reconciliation."
-msgstr "Se decidi di annullare un pagamento, è ancora registrato nei tuoi libri ma non è più collegato alla fattura specifica. Se si annulla la riconciliazione di un pagamento in una valuta diversa, Odoo creerà una registrazione a giornale per invertire la perdita / il guadagno di cambio valuta pubblicato al momento della riconciliazione."
+msgstr "Se decidi di annullare un pagamento, è ancora registrato nei tuoi libri ma non è più collegato alla fattura specifica. Se si annulla la riconciliazione di un pagamento in una valuta diversa, Odoo creerà una registrazione sezionale per invertire la perdita / il guadagno di cambio valuta pubblicato al momento della riconciliazione."
 
 #: ../../accounting/receivables/customer_payments/recording.rst:39
 msgid "Payments not tied to an invoice"
@@ -7725,7 +7725,7 @@ msgstr "Quando si registra un nuovo pagamento, è necessario selezionare un clie
 
 #: ../../accounting/receivables/customer_payments/recording.rst:58
 msgid "Once confirmed, a journal entry will be posted reflecting the transaction just made in the accounting application."
-msgstr "Una volta confermato, verrà inserita una registrazione a giornale che riflette la transazione appena effettuata nell'applicazione di contabilità."
+msgstr "Una volta confermato, verrà inserita una registrazione sezionale che riflette la transazione appena effettuata nell'applicazione di contabilità."
 
 #: ../../accounting/receivables/customer_payments/recording.rst:62
 msgid "Reconciling invoice payments"
@@ -7737,7 +7737,7 @@ msgstr "Il modo più semplice per riconciliare un pagamento con una fattura è f
 
 #: ../../accounting/receivables/customer_payments/recording.rst:67
 msgid "When validating a new invoice, Odoo will warn you that an outstanding payment for this customer or vendor is available. In this case, you can reconcile this payment to the invoice near the totals at the bottom, under \"Outstanding Payments\"."
-msgstr "Quando convalida una nuova fattura, Odoo ti avviserà che è disponibile un pagamento in sospeso per questo cliente o fornitore. In questo caso, puoi riconciliare questo pagamento con la fattura vicino ai totali nella parte inferiore, sotto \\ \"Pagamenti eccezionali \"."
+msgstr "Quando convalida una nuova fattura, Odoo ti avviserà che è disponibile un pagamento in sospeso per questo cliente o fornitore. In questo caso, puoi riconciliare questo pagamento con la fattura vicino ai totali nella parte inferiore, sotto \"Pagamenti eccezionali \"."
 
 #: ../../accounting/receivables/customer_payments/recording.rst:76
 msgid "Reconciling all your outstanding payments and invoices"
@@ -7773,7 +7773,7 @@ msgstr "Questo ti porterà alla stessa schermata che hai per ricevere ed effettu
 
 #: ../../accounting/receivables/customer_payments/recording.rst:118
 msgid "When making an internal transfer from one bank account to another, select the bank you want to apply the transfer from in the dashboard, and in the register payments screen, you select the transfer to account. Do not go through this process again in the other bank account or else you will end up with two journal entries for the same transaction."
-msgstr "Quando si effettua un trasferimento interno da un conto bancario a un altro, selezionare la banca da cui si desidera applicare il trasferimento dalla dashboard e nella schermata dei pagamenti registrati, selezionare il trasferimento sul conto. Non ripassare più questo processo nell'altro conto bancario, altrimenti finirai con due voci del diario per la stessa transazione."
+msgstr "Quando si effettua un trasferimento interno da un conto bancario a un altro, selezionare la banca da cui si desidera applicare il trasferimento dalla dashboard e nella schermata dei pagamenti registrati, selezionare il trasferimento sul conto. Non ripassare più questo processo nell'altro conto bancario, altrimenti finirai con due registrazioni sezionale per la stessa transazione."
 
 #: ../../accounting/receivables/customer_payments/recording.rst:127
 msgid ":doc:`credit_cards`"
@@ -7789,7 +7789,7 @@ msgstr "Come automatizzare i follow-up dei clienti con i piani?"
 
 #: ../../accounting/receivables/getting_paid/automated_followups.rst:5
 msgid "With the Odoo Accounting application, you get a dynamic aged receivable report, customer statements and you can easily send them to customers."
-msgstr "Con l'applicazione Contabilità Odoo, si ottiene un rapporto di credito invecchiato dinamico, le dichiarazioni dei clienti e si possono facilmente inviare ai clienti."
+msgstr "Con l'applicazione Contabilità di Odoo, si ottiene un rapporto di credito invecchiato dinamico, le dichiarazioni dei clienti e si possono facilmente inviare ai clienti."
 
 #: ../../accounting/receivables/getting_paid/automated_followups.rst:8
 msgid "If you want to go further in the automation of the credit collection process, you can use follow-up plans. They will help you automate all the steps to get paid, by triggering them at the right time: send customer statements by emails, send regular letter (through the Docsaway integration), create a task to manually call the customer, etc..."
