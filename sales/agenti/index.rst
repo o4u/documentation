@@ -100,6 +100,8 @@ Gestione Resposabile di area
 
 Il modulo ``sale_commission_areamanager`` permette di gestire i responsabili di area e le loro provvigioni.
 
-Nella scheda dell'agente è possibile impostare se l'agente è un responsabile di area tramite il checkbox ``Area Manager``.
+Nella scheda dell'agente è possibile impostare se l'agente è un responsabile di area tramite il checkbox ``E' un Area Manager``.
 
-TODO
+Per gli agenti sottoposti, è necessario invece riempire il campo ``Area Manager``, selezionando l'agente responsabile dell'agente corrente, e la provvigione da utilizzare per il responsabile quando applicato all'agente corrente.
+
+Nel preventivo, utilizzando un agente che ha anche un responsabile, al salvataggio del preventivo stesso, il responsabile verrà aggiunto fra gli agenti coinvolti e le provvigioni calcolate.
